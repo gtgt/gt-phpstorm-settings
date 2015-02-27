@@ -117,7 +117,7 @@
   <inspection_tool class="TypeUnsafeArraySearchInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TypeUnsafeComparisonInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TypesCastingWithFunctionsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="UnNecessaryDoubleQuotesInspection" enabled="true" level="INFO" enabled_by_default="true" />
+  <inspection_tool class="UnNecessaryDoubleQuotesInspection" enabled="false" level="INFO" enabled_by_default="false" />
   <inspection_tool class="UnSafeIsSetOverArrayInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnnecessaryLocalVariableJS" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_ignoreImmediatelyReturnedVariables" value="false" />

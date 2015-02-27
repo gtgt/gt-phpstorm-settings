@@ -10,10 +10,13 @@
     <property name="bashsupport.weddingNotification.shown" value="1" />
     <property name="bashsupport.weddingNotification.enabled" value="false" />
     <property name="Non-Project Files" value="Yellow" />
-    <property name="INSPECTION_FILTER_HISTORY" value="__DIR&#10;&quot;if/else&quot;&#10;wrap&#10;Analyses if conditionals&#10;if con&#10;&quot;New in 8&quot;" />
+    <property name="INSPECTION_FILTER_HISTORY" value="quote&#10;__DIR&#10;&quot;if/else&quot;&#10;wrap&#10;Analyses if conditionals&#10;if con&#10;&quot;New in 8&quot;" />
     <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
     <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
     <property name="export.settings.path" value="$USER_HOME$/Dropbox/etc/phpstorm-8.x.x-settings.jar" />
     <property name="file.chooser.recent.files" value="$USER_HOME$/Dropbox/etc/phpstorm-8.x.x-settings.jar&#10;/home/gt/Dropbox/etc" />
+    <property name="FindSplitterProportion" value="0.25" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
   </component>
 </application>

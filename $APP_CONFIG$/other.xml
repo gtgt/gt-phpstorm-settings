@@ -7,48 +7,18 @@
             <id />
           </State>
           <State>
-            <id>Assignment issuesJavaScript</id>
+            <id>BashSupport</id>
           </State>
           <State>
-            <id>Bitwise operation issuesJavaScript</id>
+            <id>PHP</id>
           </State>
           <State>
-            <id>Code quality toolsJavaScript</id>
-          </State>
-          <State>
-            <id>Code style issuesJavaScript</id>
-          </State>
-          <State>
-            <id>Control flow issuesJavaScript</id>
-          </State>
-          <State>
-            <id>Data flow issuesJavaScript</id>
-          </State>
-          <State>
-            <id>Error handlingJavaScript</id>
-          </State>
-          <State>
-            <id>General</id>
-          </State>
-          <State>
-            <id>GeneralJavaScript</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>JavaScript validity issuesJavaScript</id>
-          </State>
-          <State>
-            <id>Potentially confusing code constructsJavaScript</id>
-          </State>
-          <State>
-            <id>Probable bugsJavaScript</id>
+            <id>Php Inspections (EA Extended)PHP</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>JSPotentiallyInvalidConstructorUsage</id>
+            <id>UnNecessaryDoubleQuotesInspection</id>
           </State>
         </selected-state>
       </profile-state>
@@ -98,6 +68,9 @@
             <id />
           </State>
           <State>
+            <id>BashSupport</id>
+          </State>
+          <State>
             <id>PHP</id>
           </State>
           <State>
@@ -106,7 +79,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>dirnameCallOnFileConstantInspection</id>
+            <id>UnNecessaryDoubleQuotesInspection</id>
           </State>
         </selected-state>
       </profile-state>
