@@ -18,5 +18,8 @@
     <property name="FindSplitterProportion" value="0.25" />
     <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5" />
     <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="dir.diff.space.button.info" value="3" />
+    <property name="dir.diff.filter" value="" />
+    <property name="dir.diff.panel.divider.location" value="200" />
   </component>
 </application>
