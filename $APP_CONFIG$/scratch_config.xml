@@ -1,0 +1,23 @@
+<application>
+  <component name="ScratchConfig">
+    <option name="defaultScratchMeaning" value="TOPMOST" />
+    <option name="fullScratchNamesOrdered">
+      <list>
+        <option value="scratch.html" />
+        <option value="testphp.php" />
+        <option value="test.html" />
+        <option value="dialog.js" />
+        <option value="link.js" />
+        <option value="scratch1.php" />
+        <option value="menuterkep_backup.html" />
+        <option value="telefonos_menuterkep.html" />
+        <option value="bugs.php" />
+        <option value="ejabberd_auth.php" />
+        <option value="scratch2.json" />
+        <option value="package.html" />
+      </list>
+    </option>
+    <option name="lastOpenedScratch" value="scratch2.json" />
+    <option name="needMigration" value="false" />
+  </component>
+</application>
