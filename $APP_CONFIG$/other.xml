@@ -7,9 +7,6 @@
             <id />
           </State>
           <State>
-            <id>ActionScript specificJavaScript</id>
-          </State>
-          <State>
             <id>Assignment issuesJavaScript</id>
           </State>
           <State>
@@ -62,10 +59,34 @@
           <State>
             <id />
           </State>
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralPHP</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Portability issues</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>PHP</id>
+            <id>BashSupport</id>
           </State>
         </selected-state>
       </profile-state>
@@ -76,37 +97,10 @@
           <State>
             <id />
           </State>
-          <State>
-            <id>Bitwise operation issuesJavaScript</id>
-          </State>
-          <State>
-            <id>Control flow issuesJavaScript</id>
-          </State>
-          <State>
-            <id>GeneralJavaScript</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>Naming conventionsJavaScript</id>
-          </State>
-          <State>
-            <id>PHP</id>
-          </State>
-          <State>
-            <id>PHPDocPHP</id>
-          </State>
-          <State>
-            <id>Potentially confusing code constructsJavaScript</id>
-          </State>
-          <State>
-            <id>SQL</id>
-          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>SqlResolveInspection</id>
+            <id>BashSupport</id>
           </State>
         </selected-state>
       </profile-state>
