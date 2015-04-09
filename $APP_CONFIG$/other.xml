@@ -133,10 +133,10 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="/mnt/develop/gt/intranet2" />
         <option value="/mnt/develop/gt/intranet" />
         <option value="/mnt/develop/gt/application" />
         <option value="/mnt/develop/gt/digi.hu.2014" />
-        <option value="/mnt/develop/gt/intranet2" />
         <option value="/mnt/develop/kp/statisztika" />
         <option value="/mnt/develop/gt/gate" />
         <option value="/mnt/develop/gt/digi2" />
@@ -162,10 +162,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="/mnt/develop/gt/intranet" />
+        <option value="/mnt/develop/gt/intranet2" />
       </list>
     </option>
-    <option name="lastPath" value="/mnt/develop/gt/intranet" />
+    <option name="lastPath" value="/mnt/develop/gt/intranet2" />
   </component>
   <component name="RecentTaskRepositories">
     <Redmine shared="false" url="http://develop.digicable.hu/redmine">
