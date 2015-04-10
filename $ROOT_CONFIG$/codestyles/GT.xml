@@ -1,5 +1,4 @@
 <code_scheme name="GT">
-  <option name="AUTODETECT_INDENTS" value="true" />
   <option name="OTHER_INDENT_OPTIONS">
     <value>
       <option name="INDENT_SIZE" value="2" />
@@ -33,30 +32,6 @@
     <option name="UPPER_CASE_NULL_CONST" value="true" />
     <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
-  <DBN-PSQL>
-    <case-options enabled="true">
-      <option name="KEYWORD_CASE" value="upper" />
-      <option name="FUNCTION_CASE" value="upper" />
-      <option name="PARAMETER_CASE" value="lower" />
-      <option name="DATATYPE_CASE" value="upper" />
-      <option name="OBJECT_CASE" value="preserve" />
-    </case-options>
-    <formatting-settings enabled="true" />
-  </DBN-PSQL>
-  <DBN-SQL>
-    <case-options enabled="true">
-      <option name="KEYWORD_CASE" value="upper" />
-      <option name="FUNCTION_CASE" value="upper" />
-      <option name="PARAMETER_CASE" value="lower" />
-      <option name="DATATYPE_CASE" value="upper" />
-      <option name="OBJECT_CASE" value="preserve" />
-    </case-options>
-    <formatting-settings enabled="false">
-      <option name="STATEMENT_SPACING" value="one_line" />
-      <option name="CLAUSE_CHOP_DOWN" value="ignore_wrapping" />
-      <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
-    </formatting-settings>
-  </DBN-SQL>
   <Twig>
     <option name="SPACES_INSIDE_DELIMITERS" value="false" />
     <option name="SPACES_INSIDE_VARIABLE_DELIMITERS" value="false" />

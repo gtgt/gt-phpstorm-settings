@@ -1,4 +1,4 @@
-<inspections profile_name="GT" version="1.0" is_locked="false">
+<inspections profile_name="GT" version="1.0">
   <option name="myName" value="GT" />
   <option name="myLocal" value="true" />
   <inspection_tool class="AdditionOperationOnArraysInspection" enabled="false" level="INFO" enabled_by_default="false" />
