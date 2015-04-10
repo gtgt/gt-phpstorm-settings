@@ -6,13 +6,15 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="/usr/bin/php" id="0d197d55-0eb9-4ade-9a84-49de0db93f62" name="local-default" />
+      <interpreter home="/usr/bin/php" id="0d197d55-0eb9-4ade-9a84-49de0db93f62" name="local-default" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="local-default">
-        <phpinfo debugger="xdebug" debugger_version="2.2.5" path_separator=":" version="5.6.5">
+        <phpinfo php_cli="" path_separator=":" remote_host="127.0.0.1" version="5.6.5">
+          <additional_php_ini />
+          <configuration_file />
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -303,6 +305,11 @@
             <configuration_option name="zlib.output_compression_level" value="-1" />
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="2.2.5">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />

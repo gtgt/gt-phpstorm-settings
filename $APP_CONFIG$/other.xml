@@ -139,9 +139,6 @@
       <username>gt</username>
     </Redmine>
   </component>
-  <component name="SvnApplicationSettings">
-    <option name="mySvnCommandLine" value="svn-setlocale" />
-  </component>
   <component name="SystemNotifications">
     <option name="NOTIFICATIONS">
       <set>
@@ -152,23 +149,6 @@
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" />
-  </component>
-  <component name="XDebuggerSettings">
-    <data-views>
-      <sort-values>true</sort-values>
-    </data-views>
-    <general />
-    <debuggers>
-      <debugger id="db-program">
-        <configuration />
-      </debugger>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
-          <stepping-filters-enabled>false</stepping-filters-enabled>
-        </configuration>
-      </debugger>
-    </debuggers>
   </component>
   <component name="XPathView.XPathViewPlugin">
     <option name="SHOW_IN_TOOLBAR" value="true" />

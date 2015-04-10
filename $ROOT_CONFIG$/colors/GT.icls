@@ -17,6 +17,9 @@
     <option name="WHITESPACES" value="ebebeb" />
   </colors>
   <attributes>
+    <option name="APACHE_CONFIG.ARG_LEXEM">
+      <value />
+    </option>
     <option name="BASH.FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="c57633" />
