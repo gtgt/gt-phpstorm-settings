@@ -31,10 +31,6 @@
     <option name="UPPER_CASE_NULL_CONST" value="true" />
     <option name="PHPDOC_USE_FQCN" value="true" />
   </PHPCodeStyleSettings>
-  <Twig>
-    <option name="SPACES_INSIDE_DELIMITERS" value="false" />
-    <option name="SPACES_INSIDE_VARIABLE_DELIMITERS" value="false" />
-  </Twig>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
