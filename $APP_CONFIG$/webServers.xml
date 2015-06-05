@@ -98,8 +98,8 @@
       <webServer id="1aec0888-217c-4985-ad9f-f1565e75fc94" name="localhost" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="f8373835-c0b8-48ee-be3f-5ea91362489e" name="fxloop.eu.sftp" url="http://new.fxloop.eu">
-        <fileTransfer host="new.fxloop.eu" port="222" rootFolder="/var/www/" accessType="SFTP" password="dfc9dfc3dfc9dfc9" username="gt">
+      <webServer id="f8373835-c0b8-48ee-be3f-5ea91362489e" name="fxloop.eu.sftp" url="http://fxloop.eu">
+        <fileTransfer host="fxloop.eu" port="222" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/" accessType="SFTP" username="gt" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
