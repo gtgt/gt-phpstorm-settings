@@ -12,7 +12,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="local-default">
-        <phpinfo php_cli="/usr/bin/php" path_separator=":" remote_host="127.0.0.1" version="5.6.7">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" remote_host="127.0.0.1" version="5.6.7">
           <additional_php_ini>/etc/php5/conf.d/bcmath.ini, /etc/php5/conf.d/ctype.ini, /etc/php5/conf.d/curl.ini, /etc/php5/conf.d/dom.ini, /etc/php5/conf.d/gd.ini, /etc/php5/conf.d/iconv.ini, /etc/php5/conf.d/json.ini, /etc/php5/conf.d/mbstring.ini, /etc/php5/conf.d/memcache.ini, /etc/php5/conf.d/mysql.ini, /etc/php5/conf.d/mysqli.ini, /etc/php5/conf.d/opcache.ini, /etc/php5/conf.d/openssl.ini, /etc/php5/conf.d/pdo.ini, /etc/php5/conf.d/pdo_mysql.ini, /etc/php5/conf.d/pdo_sqlite.ini, /etc/php5/conf.d/phar.ini, /etc/php5/conf.d/posix.ini, /etc/php5/conf.d/sqlite3.ini, /etc/php5/conf.d/tokenizer.ini, /etc/php5/conf.d/uploadprogress.ini, /etc/php5/conf.d/xdebug.ini, /etc/php5/conf.d/zip.ini, /etc/php5/conf.d/zlib.ini</additional_php_ini>
           <configuration_file>/etc/php5/cli/php.ini</configuration_file>
           <configuration_options>
