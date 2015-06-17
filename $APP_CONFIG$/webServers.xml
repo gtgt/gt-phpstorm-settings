@@ -152,7 +152,7 @@
       <webServer id="134896ee-ad8e-42a5-a7fd-5adea501a394" name="websync.digicable.hu" url="http://digionline.hu">
         <fileTransfer host="websync.digicable.hu" port="21" password="dfc7dfcfdfc2df9edf9fdf9ddf9cdfe9" username="tamas_gere">
           <advancedOptions>
-            <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
+            <advancedOptions compatibilityMode="true" passiveMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
