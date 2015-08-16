@@ -36,6 +36,9 @@
             <id>Code quality toolsJavaScript</id>
           </State>
           <State>
+            <id>General</id>
+          </State>
+          <State>
             <id>GeneralPHP</id>
           </State>
           <State>
@@ -48,15 +51,12 @@
             <id>PHP</id>
           </State>
           <State>
-            <id>Portability issues</id>
-          </State>
-          <State>
             <id>Potentially confusing code constructsJavaScript</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>BashSupport</id>
+            <id>Composer.json</id>
           </State>
         </selected-state>
       </profile-state>
