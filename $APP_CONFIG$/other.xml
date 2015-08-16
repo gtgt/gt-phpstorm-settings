@@ -30,35 +30,12 @@
             <id />
           </State>
           <State>
-            <id>Code StylePHP</id>
-          </State>
-          <State>
-            <id>Code quality toolsJavaScript</id>
-          </State>
-          <State>
             <id>General</id>
           </State>
           <State>
-            <id>GeneralPHP</id>
-          </State>
-          <State>
-            <id>Internationalization issues</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>PHP</id>
-          </State>
-          <State>
-            <id>Potentially confusing code constructsJavaScript</id>
+            <id>Potentially confusing code constructs</id>
           </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>Composer.json</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
     <entry key="Project Default">
