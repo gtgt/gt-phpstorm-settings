@@ -1,0 +1,6 @@
+<application>
+  <component name="BuiltInServerOptions" builtInServerPort="7788" builtInServerAvailableExternally="true" />
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd" location="http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd" />
+  </component>
+</application>
