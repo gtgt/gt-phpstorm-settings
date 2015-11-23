@@ -15,6 +15,7 @@
     <option name="automaticallyInsertRequiredAttributes" value="false" />
     <option name="automaticallyInsertRequiredSubTags" value="false" />
     <option name="automaticallyStartAttribute" value="false" />
+    <option name="breadcrumbsEnabled" value="false" />
     <option name="insertQuotesForAttributeValue" value="false" />
     <option name="tagTreeHighlightingOpacity" value="50" />
   </component>

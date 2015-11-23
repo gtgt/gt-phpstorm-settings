@@ -1,13 +1,12 @@
 <application>
   <component name="FileTypeManager" version="14">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="" type="HTML" />
       <mapping pattern=".editorconfig" type="Ini" />
       <mapping ext="info" type="Ini" />
       <mapping ext="ods" type="Native" />
       <mapping ext="xcf" type="Native" />
-      <mapping ext="mo" type="Native" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="engine" type="PHP" />
