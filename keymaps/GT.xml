@@ -1,60 +1,35 @@
 <keymap version="1" name="GT" parent="NetBeans 6.5">
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
     <keyboard-shortcut first-keystroke="shift ctrl space" />
   </action>
-  <action id="Console.TableResult.Reload" />
-  <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="ctrl period" />
+  <action id="Console.History.Browse" />
+  <action id="EditorPaste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl page_down" />
-    <keyboard-shortcut first-keystroke="meta right" />
+  <action id="EditorPasteSimple">
+    <keyboard-shortcut first-keystroke="shift ctrl alt v" />
+    <keyboard-shortcut first-keystroke="shift insert" />
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
-  <action id="PinActiveTab">
-    <keyboard-shortcut first-keystroke="meta up" />
-  </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl page_up" />
-    <keyboard-shortcut first-keystroke="meta left" />
-  </action>
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
-  <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="ctrl q" />
-    <mouse-shortcut keystroke="alt button2" />
-    <keyboard-shortcut first-keystroke="shift alt space" />
-  </action>
-  <action id="RemoteHostView.Rename">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
-  <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
-  <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="meta back_space" />
-  </action>
+  <action id="RenameElement" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl h" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="shift meta space" />
-  </action>
-  <action id="ShelvedChanges.Rename">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
-    <keyboard-shortcut first-keystroke="alt space" />
+    <keyboard-shortcut first-keystroke="shift alt space" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -71,13 +46,10 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
-  <action id="TabList">
-    <keyboard-shortcut first-keystroke="meta down" />
+  <action id="osmedile.intellij.stringmanip.EscapePHPAction">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
-  <action id="ToggleBookmark">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
-  <action id="com.jetbrains.php.drupal.DrupalSearchDocsAction">
-    <keyboard-shortcut first-keystroke="ctrl meta space" />
+  <action id="osmedile.intellij.stringmanip.UnescapePHPAction">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
 </keymap>
