@@ -7,18 +7,15 @@
             <id />
           </State>
           <State>
-            <id>BashSupport</id>
+            <id>Control FlowPHP</id>
           </State>
           <State>
             <id>PHP</id>
           </State>
-          <State>
-            <id>Php Inspections (EA Extended)PHP</id>
-          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>UnNecessaryDoubleQuotesInspection</id>
+            <id>PhpWrongCatchClausesOrderInspection</id>
           </State>
         </selected-state>
       </profile-state>
