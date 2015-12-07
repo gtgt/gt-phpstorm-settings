@@ -1,14 +1,14 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="true">
-      <option name="arguments" value="--no-color less/style.less css/style.css" />
+    <TaskOptions isEnabled="false">
+      <option name="arguments" value="--no-color $FileName$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .less files into .css files" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="less" />
-      <option name="immediateSync" value="false" />
+      <option name="immediateSync" value="true" />
       <option name="name" value="LESS" />
-      <option name="output" value="css/style.css" />
+      <option name="output" value="$FileNameWithoutExtension$.css" />
       <option name="outputFilters">
         <array>
           <FilterInfo>
@@ -18,12 +18,12 @@
           </FilterInfo>
         </array>
       </option>
-      <option name="outputFromStdout" value="false" />
+      <option name="outputFromStdout" value="true" />
       <option name="passParentEnvs" value="true" />
-      <option name="program" value="$USER_HOME$/bin/lessc" />
+      <option name="program" value="/usr/bin/php" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="$ProjectFileDir$/sites/default/themes/digi" />
+      <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
@@ -52,7 +52,7 @@
       <option name="description" value="Compiles .less files into .css files" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="less" />
-      <option name="immediateSync" value="true" />
+      <option name="immediateSync" value="false" />
       <option name="name" value="bootstrap.less" />
       <option name="output" value="$FileDir$/css/boostrap.css" />
       <option name="outputFilters">
@@ -60,7 +60,7 @@
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="passParentEnvs" value="true" />
-      <option name="program" value="$USER_HOME$/bin/lessc" />
+      <option name="program" value="/opt/bin/lessc" />
       <option name="scopeName" value="bootstrap.less" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileParentDir$" />

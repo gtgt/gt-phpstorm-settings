@@ -4,7 +4,7 @@
       <webServer id="490f2cd8-ac42-48e4-bb47-143d6daf28c2" name="digi.hu" url="http://2014.digi.hu">
         <fileTransfer host="digiadmin.digicable.hu" port="21" password="dfc7dfcfdfc2df9edf9fdf9ddf9cdfe9" username="tamas_gere">
           <advancedOptions>
-            <advancedOptions compatibilityMode="true" passiveMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
+            <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
@@ -98,8 +98,8 @@
       <webServer id="1aec0888-217c-4985-ad9f-f1565e75fc94" name="localhost" url="http://localhost">
         <fileTransfer accessType="LOCAL" />
       </webServer>
-      <webServer id="f8373835-c0b8-48ee-be3f-5ea91362489e" name="fxloop.eu.sftp" url="http://fxloop.eu">
-        <fileTransfer host="fxloop.eu" port="222" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/" accessType="SFTP" username="gt" keyPair="true">
+      <webServer id="f8373835-c0b8-48ee-be3f-5ea91362489e" name="fxloop.eu.sftp" url="http://new.fxloop.eu">
+        <fileTransfer host="new.fxloop.eu" port="222" rootFolder="/var/www/" accessType="SFTP" password="dfc9dfc3dfc9dfc9" username="gt">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -152,7 +152,7 @@
       <webServer id="134896ee-ad8e-42a5-a7fd-5adea501a394" name="websync.digicable.hu" url="http://digionline.hu">
         <fileTransfer host="websync.digicable.hu" port="21" password="dfc7dfcfdfc2df9edf9fdf9ddf9cdfe9" username="tamas_gere">
           <advancedOptions>
-            <advancedOptions compatibilityMode="true" passiveMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
+            <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>

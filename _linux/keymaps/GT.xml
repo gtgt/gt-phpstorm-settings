@@ -1,83 +1,38 @@
 <keymap version="1" name="GT" parent="NetBeans 6.5">
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="control F4" />
-  </action>
   <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="control BACK_SLASH" />
-    <keyboard-shortcut first-keystroke="shift control SPACE" />
-  </action>
-  <action id="Console.TableResult.Reload" />
-  <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="control PERIOD" />
-  </action>
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="control PAGE_DOWN" />
-    <keyboard-shortcut first-keystroke="meta RIGHT" />
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
   </action>
   <action id="ParameterInfo">
-    <keyboard-shortcut first-keystroke="control P" />
-    <keyboard-shortcut first-keystroke="control SPACE" />
-  </action>
-  <action id="PinActiveTab">
-    <keyboard-shortcut first-keystroke="meta UP" />
-  </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="control PAGE_UP" />
-    <keyboard-shortcut first-keystroke="meta LEFT" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="PublishGroup.Upload">
-    <keyboard-shortcut first-keystroke="shift control U" />
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
-  <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="control Q" />
-    <mouse-shortcut keystroke="alt button2" />
-    <keyboard-shortcut first-keystroke="shift alt SPACE" />
-  </action>
-  <action id="RemoteHostView.Rename">
-    <keyboard-shortcut first-keystroke="F2" />
-  </action>
-  <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="F2" />
-  </action>
-  <action id="ReopenClosedTab">
-    <keyboard-shortcut first-keystroke="meta BACK_SPACE" />
-  </action>
+  <action id="RenameElement" />
   <action id="Replace">
-    <keyboard-shortcut first-keystroke="control H" />
-    <keyboard-shortcut first-keystroke="control R" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="shift meta SPACE" />
-  </action>
-  <action id="ShelvedChanges.Rename">
-    <keyboard-shortcut first-keystroke="F2" />
-  </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="shift control BACK_SLASH" />
-    <keyboard-shortcut first-keystroke="alt SPACE" />
+    <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
+    <keyboard-shortcut first-keystroke="shift alt space" />
   </action>
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+    <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="shift alt UP" />
-  </action>
-  <action id="TabList">
-    <keyboard-shortcut first-keystroke="meta DOWN" />
-  </action>
-  <action id="ToggleBookmark">
-    <keyboard-shortcut first-keystroke="F2" />
-  </action>
-  <action id="com.jetbrains.php.drupal.DrupalSearchDocsAction">
-    <keyboard-shortcut first-keystroke="control meta SPACE" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
 </keymap>
