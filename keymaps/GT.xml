@@ -14,6 +14,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt v" />
     <keyboard-shortcut first-keystroke="shift insert" />
   </action>
+  <action id="ExternalJavaDoc">
+    <keyboard-shortcut first-keystroke="shift f1" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt space" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
@@ -25,6 +29,11 @@
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="shift alt space" />
+  </action>
   <action id="RenameElement" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl h" />
@@ -33,7 +42,7 @@
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
-    <keyboard-shortcut first-keystroke="shift alt space" />
+    <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
