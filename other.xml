@@ -7,18 +7,30 @@
             <id />
           </State>
           <State>
-            <id>BashSupport</id>
+            <id>GeneralPHP</id>
+          </State>
+          <State>
+            <id>Less</id>
           </State>
           <State>
             <id>PHP</id>
           </State>
           <State>
-            <id>Php Inspections (EA Extended)PHP</id>
+            <id>Potentially confusing code constructs</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>XML</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>UnNecessaryDoubleQuotesInspection</id>
+            <id>SassScssResolvedByNameOnly</id>
           </State>
         </selected-state>
       </profile-state>
@@ -48,15 +60,15 @@
             <id>PHP</id>
           </State>
           <State>
-            <id>Portability issues</id>
+            <id>Potentially confusing code constructsJavaScript</id>
           </State>
           <State>
-            <id>Potentially confusing code constructsJavaScript</id>
+            <id>SQL</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>BashSupport</id>
+            <id>SqlIdentifierInspection</id>
           </State>
         </selected-state>
       </profile-state>
