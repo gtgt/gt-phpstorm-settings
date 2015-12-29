@@ -7,6 +7,11 @@
   </colors>
   <attributes>
     <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
+    <option name="APACHE_CONFIG.ARG_LEXEM">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_BRACES">
       <value>
@@ -123,7 +128,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="7000" />
+        <option name="FOREGROUND" value="6500" />
       </value>
     </option>
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
