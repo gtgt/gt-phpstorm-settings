@@ -1,6 +1,12 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
+      <component name="ComposerJsonPluginSettings">
+        <unboundedVersionInspectionSettings>
+          <excludedPackages />
+        </unboundedVersionInspectionSettings>
+        <customRepositories />
+      </component>
       <component name="Encoding">
         <file url="PROJECT" charset="UTF-8" />
       </component>
@@ -16,6 +22,8 @@
       </component>
       <component name="PropertiesComponent">
         <property name="last_opened_file_path" value="/usr/share/java/mysql-connector-java.jar" />
+        <property name="settings.editor.selected.configurable" value="preferences.updates" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
     </defaultProject>
   </component>
