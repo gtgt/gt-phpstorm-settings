@@ -12,11 +12,8 @@
     <option name="PRESELECT_RENAME" value="false" />
   </component>
   <component name="XmlEditorOptions">
-    <option name="automaticallyInsertClosingTag" value="false" />
-    <option name="automaticallyInsertRequiredAttributes" value="false" />
-    <option name="automaticallyInsertRequiredSubTags" value="false" />
-    <option name="automaticallyStartAttribute" value="false" />
     <option name="insertQuotesForAttributeValue" value="false" />
+    <option name="syncTagEditing" value="false" />
     <option name="tagTreeHighlightingOpacity" value="50" />
   </component>
 </application>
