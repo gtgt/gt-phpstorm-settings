@@ -1,15 +1,11 @@
 <inspections profile_name="GT" version="1.0">
   <option name="myName" value="GT" />
   <option name="myLocal" value="true" />
-  <inspection_tool class="AdditionOperationOnArraysInspection" enabled="false" level="INFO" enabled_by_default="false" />
-  <inspection_tool class="AliasFunctionsUsageInspection" enabled="true" level="INFO" enabled_by_default="true" />
-  <inspection_tool class="CallableParameterUseCaseInTypeContextInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CheckEmptyScriptTag" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="CheckImageSize" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="CommaExpressionJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ConstantConditionalExpressionJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ConstantIfStatementJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="CssInvalidPropertyValue" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myCustomPropertiesEnabled" value="true" />
     <option name="myIgnoreVendorSpecificProperties" value="true" />
@@ -22,10 +18,8 @@
       </value>
     </option>
   </inspection_tool>
-  <inspection_tool class="ElvisOperatorCanBeUsedInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ExceptionCaughtLocallyJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="FallthroughInSwitchStatementJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="ForeachSourceInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="HtmlFormInputWithoutLabel" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
@@ -44,8 +38,6 @@
     <option name="myCustomValuesEnabled" value="true" />
   </inspection_tool>
   <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="IfConditionalsWithoutCurvyBracketsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="IsEmptyFunctionUsageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSAccessibilityCheck" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JSBitwiseOperatorUsage" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JSCheckFunctionSignatures" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -67,7 +59,6 @@
   <inspection_tool class="JSUnusedGlobalSymbols" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSUnusedLocalSymbols" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JSValidateTypes" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="NotOptimalIfConditionsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpAssignmentInConditionInspection" enabled="true" level="INFO" enabled_by_default="true" />
   <inspection_tool class="PhpCSValidationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
     <option name="CODING_STANDARD" value="moodle" />
@@ -80,13 +71,11 @@
   <inspection_tool class="PhpMissingBreakStatementInspection" enabled="true" level="INFO" enabled_by_default="true" />
   <inspection_tool class="PhpParamsInspection" enabled="false" level="INFO" enabled_by_default="false" />
   <inspection_tool class="PhpRedundantClosingTagInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="PhpToStringImplementationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpUndefinedClassInspection" enabled="true" level="ERROR" enabled_by_default="true">
     <option name="DONT_REPORT_MULTI_RESOLVE" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpUndefinedConstantInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpUndefinedFieldInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="PhpUndefinedFunctionInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpUndefinedMethodInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
     <option name="DOWNGRADE_SEVERITY" value="true" />
   </inspection_tool>
@@ -104,21 +93,9 @@
   <inspection_tool class="RequiredAttributes" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="myAdditionalRequiredHtmlAttributes" value="" />
   </inspection_tool>
-  <inspection_tool class="SenselessCommaInArrayDefinitionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="SlowArrayOperationsInLoopInspection" enabled="true" level="INFO" enabled_by_default="true" />
-  <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="true">
-    <option name="processCode" value="false" />
-    <option name="processLiterals" value="true" />
-    <option name="processComments" value="true" />
-  </inspection_tool>
   <inspection_tool class="SqlResolveInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="TrivialConditionalJS" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TrivialIfJS" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="TypeUnsafeArraySearchInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="TypeUnsafeComparisonInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="TypesCastingWithFunctionsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-  <inspection_tool class="UnNecessaryDoubleQuotesInspection" enabled="true" level="INFO" enabled_by_default="true" />
-  <inspection_tool class="UnSafeIsSetOverArrayInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="UnnecessaryLocalVariableJS" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_ignoreImmediatelyReturnedVariables" value="false" />
     <option name="m_ignoreAnnotatedVariables" value="false" />
