@@ -1,3 +1,6 @@
 <inspections profile_name="Default" version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="PhpUndefinedMethodInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="DOWNGRADE_SEVERITY" value="true" />
+  </inspection_tool>
 </inspections>
