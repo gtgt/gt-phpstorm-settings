@@ -19,9 +19,6 @@
             <id>Potentially confusing code constructs</id>
           </State>
           <State>
-            <id>SQL</id>
-          </State>
-          <State>
             <id>Sass/SCSS</id>
           </State>
           <State>
@@ -62,13 +59,10 @@
           <State>
             <id>Potentially confusing code constructsJavaScript</id>
           </State>
-          <State>
-            <id>SQL</id>
-          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>SqlIdentifierInspection</id>
+            <id>Blade files</id>
           </State>
         </selected-state>
       </profile-state>
