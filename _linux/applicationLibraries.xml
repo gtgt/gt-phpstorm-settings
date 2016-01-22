@@ -3,9 +3,6 @@
     <library name="jQuery UI-1.10.2" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery UI" />
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/http_ajax.googleapis.com_ajax_libs_jqueryui_1.10.2_jquery-ui.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.WebIde70/system/extLibs/http_ajax.googleapis.com_ajax_libs_jqueryui_1.10.2_jquery-ui.js" />
@@ -18,9 +15,6 @@
     <library name="jQuery-2.0.0" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/http_code.jquery.com_jquery-2.0.0.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.WebIde70/system/extLibs/http_code.jquery.com_jquery-2.0.0.js" />
@@ -33,9 +27,6 @@
     <library name="jquery-DefinitelyTyped" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_jquery_jquery.d.ts" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.WebIde70/system/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_jquery_jquery.d.ts" />
@@ -43,145 +34,6 @@
       <DOCUMENTATION>
         <root url="http://api.jquery.com" />
       </DOCUMENTATION>
-      <SOURCES />
-    </library>
-    <library name="Node.js v0.10.24 Core Modules" type="javaScript">
-      <properties>
-        <option name="frameworkName" value="Node.js Core Modules" />
-        <option name="frameworkVersion" value="v0.10.24" />
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/update.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/completion/file-completion.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/completion/installed-shallow.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/completion/installed-deep.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/find-prefix.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/fetch.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/prune.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/bugs.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/pack.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/prefix.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/unpublish.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/publish.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/unbuild.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/uninstall.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/root.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/run-script.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/rebuild.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/repo.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/bin.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/build.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/outdated.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/owner.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/restart.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/xmas.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/install.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/get.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/test.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/init.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/version.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/tag.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/view.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/visnup.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/cache.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/completion.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/config.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/npm.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/explore.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/edit.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/ls.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/link.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/whoami.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/adduser.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/faq.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/dedupe.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/deprecate.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/docs.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/help.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/help-search.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/search.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/star.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/stars.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/start.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/stop.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/substack.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/submodule.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/shrinkwrap.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/link.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/lifecycle.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/error-handler.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/is-git-url.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/gently-rm.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/tar.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/proxyify.js" />
-          <item url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/set.js" />
-        </sourceFilesUrls>
-      </properties>
-      <CLASSES>
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/update.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/completion/file-completion.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/completion/installed-shallow.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/completion/installed-deep.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/find-prefix.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/fetch.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/prune.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/bugs.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/pack.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/prefix.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/unpublish.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/publish.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/unbuild.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/uninstall.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/root.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/run-script.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/rebuild.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/repo.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/bin.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/build.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/outdated.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/owner.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/restart.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/xmas.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/install.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/get.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/test.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/init.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/version.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/tag.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/view.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/visnup.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/cache.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/completion.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/config.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/npm.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/explore.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/edit.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/ls.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/link.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/whoami.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/adduser.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/faq.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/dedupe.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/deprecate.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/docs.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/help.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/help-search.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/search.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/star.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/stars.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/start.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/stop.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/substack.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/submodule.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/shrinkwrap.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/link.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/lifecycle.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/error-handler.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/is-git-url.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/gently-rm.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/tar.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/utils/proxyify.js" />
-        <root url="file://$USER_HOME$/.WebIde70/system/extLibs/nodejs-v0.10.24-src/core-modules-sources/set.js" />
-      </CLASSES>
       <SOURCES />
     </library>
   </component>

@@ -1,10 +1,8 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="" type="HTML" />
-      <mapping pattern=".editorconfig" type="Ini" />
-      <mapping ext="info" type="Ini" />
       <mapping ext="mo" type="Native" />
       <mapping ext="xcf" type="Native" />
       <mapping ext="ods" type="Native" />
@@ -15,8 +13,9 @@
       <mapping ext="theme" type="PHP" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <removed_mapping ext="htaccess" type="PLAIN_TEXT" />
-      <mapping ext="htaccess" type="htaccess" />
       <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="htaccess" type="htaccess" />
+      <mapping ext="info" type="Ini" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
@@ -26,6 +25,7 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern=".editorconfig" type="Ini" />
     </extensionMap>
   </component>
 </application>
