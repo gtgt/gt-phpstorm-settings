@@ -7,13 +7,7 @@
             <id />
           </State>
           <State>
-            <id>GeneralPHP</id>
-          </State>
-          <State>
             <id>Less</id>
-          </State>
-          <State>
-            <id>PHP</id>
           </State>
           <State>
             <id>Potentially confusing code constructs</id>
@@ -39,13 +33,10 @@
             <id />
           </State>
           <State>
-            <id>Code StylePHP</id>
-          </State>
-          <State>
             <id>Code quality toolsJavaScript</id>
           </State>
           <State>
-            <id>GeneralPHP</id>
+            <id>General</id>
           </State>
           <State>
             <id>Internationalization issues</id>
@@ -54,15 +45,12 @@
             <id>JavaScript</id>
           </State>
           <State>
-            <id>PHP</id>
-          </State>
-          <State>
             <id>Potentially confusing code constructsJavaScript</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Blade files</id>
+            <id>AngularJS</id>
           </State>
         </selected-state>
       </profile-state>
