@@ -13,6 +13,7 @@
   </component>
   <component name="XmlEditorOptions">
     <option name="insertQuotesForAttributeValue" value="false" />
+    <option name="showCssInlineColorPreview" value="true" />
     <option name="syncTagEditing" value="false" />
     <option name="tagTreeHighlightingOpacity" value="50" />
   </component>
