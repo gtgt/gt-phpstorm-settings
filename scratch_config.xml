@@ -3,10 +3,11 @@
     <option name="defaultScratchMeaning" value="LAST_OPENED" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="scratch.json" />
+        <option value="json.json" />
+        <option value="scratch.js" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.json" />
+    <option name="lastOpenedScratch" value="json.json" />
     <option name="needMigration" value="false" />
   </component>
 </application>
