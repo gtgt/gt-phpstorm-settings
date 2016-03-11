@@ -3,6 +3,7 @@
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
+    <option name="LINE_NUMBERS_COLOR" value="0" />
     <option name="WHITESPACES" value="f1f1f1" />
   </colors>
   <attributes>
@@ -154,6 +155,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="cccccc" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
@@ -195,6 +202,18 @@
       </value>
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="73bf" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="WRONG_REFERENCES_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ff0000" />
+        <option name="ERROR_STRIPE_COLOR" value="ff0000" />
+      </value>
+    </option>
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
   </attributes>
 </scheme>

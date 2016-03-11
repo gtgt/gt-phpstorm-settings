@@ -33,24 +33,33 @@
             <id />
           </State>
           <State>
-            <id>Code quality toolsJavaScript</id>
+            <id>Code SmellPHP</id>
           </State>
           <State>
-            <id>General</id>
+            <id>DOM issuesJavaScript</id>
           </State>
           <State>
-            <id>Internationalization issues</id>
+            <id>GeneralPHP</id>
           </State>
           <State>
             <id>JavaScript</id>
           </State>
           <State>
+            <id>PHP</id>
+          </State>
+          <State>
             <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+          <State>
+            <id>UndefinedPHP</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>AngularJS</id>
+            <id>PhpMethodParametersCountMismatchInspection</id>
           </State>
         </selected-state>
       </profile-state>
