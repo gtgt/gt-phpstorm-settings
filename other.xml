@@ -110,15 +110,6 @@
     <option name="KEEP_ITN_PASSWORD" value="true" />
     <option name="EMAIL" value="" />
   </component>
-  <component name="ExternalResourceManagerImpl">
-    <resource url="http://schemas.xmlsoap.org/soap/encoding/" location="$USER_HOME$/.WebIde100/system/extResources/cad5bd9d_.xml" />
-    <resource url="http://schemas.xmlsoap.org/wsdl/" location="$USER_HOME$/.WebIde100/system/extResources/42abd8c6_.xml" />
-    <resource url="http://schemas.xmlsoap.org/wsdl/http/" location="$USER_HOME$/.WebIde100/system/extResources/9ecabba1_.xml" />
-    <resource url="http://schemas.xmlsoap.org/wsdl/mime/" location="$USER_HOME$/.WebIde100/system/extResources/9f0c1575_.xml" />
-    <resource url="http://schemas.xmlsoap.org/wsdl/soap/" location="$USER_HOME$/.WebIde100/system/extResources/9f6330fe_.xml" />
-    <resource url="http://schemas.xmlsoap.org/wsdl/soap12/wsdl11soap12.xsd" location="$USER_HOME$/.WebIde100/system/extResources/6640c088_wsdl11soap12.xsd" />
-    <resource url="http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd" location="http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd" />
-  </component>
   <component name="NativeNeighbourhoodPlugin">
     <iconsDir value="windows" />
     <executeWithDefaultAppCommand value="rundll32.exe url.dll,FileProtocolHandler $FilePath$" tokenizerDelims="" />
@@ -126,6 +117,10 @@
     <openCommandShellInCommand value="cmd /c &quot;$PluginsHome$\NativeNeighbourhood\classes\org\intellij\plugins\nativeNeighbourhood\icons\windows\cmd.bat&quot;" tokenizerDelims="" />
     <selectInFileManagerName value="Windows Explorer" />
     <nativeExtensions value="" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/X11/node" />
+    <local-interpreter path="/usr/bin/node" />
   </component>
   <component name="RecentTaskRepositories">
     <Redmine shared="false" url="http://develop.digicable.hu/redmine">
