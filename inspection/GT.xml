@@ -99,6 +99,9 @@
     <option name="m_ignoreImmediatelyReturnedVariables" value="false" />
     <option name="m_ignoreAnnotatedVariables" value="false" />
   </inspection_tool>
+  <inspection_tool class="UnterminatedStatementJS" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+    <option name="ignoreSemicolonAtEndOfBlock" value="true" />
+  </inspection_tool>
   <inspection_tool class="W3CssValidation" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myCssVersion" value="css3" />
     <option name="myIgnoreVendorSpecificProperties" value="true" />
