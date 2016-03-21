@@ -101,8 +101,12 @@
     <nativeExtensions value="" />
   </component>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="/usr/bin/X11/node" />
-    <local-interpreter path="/usr/bin/node" />
+    <local-interpreter path="/usr/bin/X11/node">
+      <version-cache version="5.7.0" last-modified="1456327878000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="5.7.0" last-modified="1456327878000" />
+    </local-interpreter>
   </component>
   <component name="RecentTaskRepositories">
     <Redmine shared="false" url="http://develop.digicable.hu/redmine">
