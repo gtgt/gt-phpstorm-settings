@@ -95,42 +95,22 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Scratch.OpenDefaultScratch" is_action="true" action_type="1" position="22">
+    <group value="Scratch.ScratchMenu" is_group="true" action_type="1" position="22">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Scratch.OpenScratchList" is_action="true" action_type="1" position="23">
+    <group value="Scratch.NewScratch" is_action="true" action_type="1" position="23">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Scratch.NewScratch" is_action="true" action_type="1" position="24">
+    <group value="Scratch.OpenScratchList" is_action="true" action_type="1" position="24">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Scratch.ScratchMenu" is_group="true" action_type="1" position="25">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Scratch.ScratchMenu" is_group="true" action_type="1" position="26">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Scratch.NewScratch" is_action="true" action_type="1" position="27">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Scratch.OpenScratchList" is_action="true" action_type="1" position="28">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Scratch.OpenDefaultScratch" is_action="true" action_type="1" position="29">
+    <group value="Scratch.OpenDefaultScratch" is_action="true" action_type="1" position="25">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
