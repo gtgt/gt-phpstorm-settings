@@ -6,9 +6,10 @@
         <option value="json.json" />
         <option value="scratch.js" />
         <option value="html.html" />
+        <option value="xml.xml" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="html.html" />
+    <option name="lastOpenedScratch" value="xml.xml" />
     <option name="needMigration" value="false" />
   </component>
 </application>
