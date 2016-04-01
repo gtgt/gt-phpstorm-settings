@@ -7,9 +7,10 @@
         <option value="scratch.js" />
         <option value="html.html" />
         <option value="xml.xml" />
+        <option value="php.php" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="xml.xml" />
+    <option name="lastOpenedScratch" value="php.php" />
     <option name="needMigration" value="false" />
   </component>
 </application>
