@@ -1,95 +1,5 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="PublishGroupPopupMenu" is_group="true" action_type="-1" position="43">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PublishGroupPopupMenu" is_group="true" action_type="-1" position="25">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="VersionControlsGroup" is_group="true" action_type="-1" position="22">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="HelpTopics" is_action="true" action_type="-1" position="18">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PublishGroupPopupMenu" is_group="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PublishGroup.SyncLocalVsRemote" is_action="true" action_type="1" position="1">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PublishGroup.SyncLocalVsRemoteWith" is_action="true" action_type="1" position="2">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="LocalHistory.ShowHistory" is_action="true" action_type="1" position="3">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PublishGroup.UploadTo" is_action="true" action_type="1" position="3">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="CloseProject" is_action="true" action_type="1" position="4">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PublishGroupPopupMenu" is_group="true" action_type="1" position="4">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="VersionControlsGroup" is_group="true" action_type="1" position="5">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RenameElement" is_action="true" action_type="1" position="9">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="23">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Scratch.OpenDefaultScratch" is_action="true" action_type="1" position="24">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Scratch.OpenScratchList" is_action="true" action_type="1" position="25">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Scratch.NewScratch" is_action="true" action_type="1" position="26">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Scratch.ScratchMenu" is_group="true" action_type="1" position="27">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="SynchronizeCurrentFile" is_action="true" action_type="-1" position="24">
       <path value="root" />
       <path value="Project View Popup Menu" />
@@ -105,19 +15,12 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="PublishGroup.SyncLocalVsRemoteWith" is_action="true" action_type="-1" position="2">
+    <group value="PublishGroupPopupMenu" is_group="true" action_type="1" position="0">
       <path value="root" />
-      <path value="Project View Popup Menu" />
-      <path value="VCS/LVCS Actions" />
+      <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="PublishGroup.SyncLocalVsRemote" is_action="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Project View Popup Menu" />
-      <path value="VCS/LVCS Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="PublishGroup.SyncLocalVsRemoteWith" is_action="true" action_type="1" position="1">
+    <group value="PublishGroup.SyncLocalVsRemote" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Project View Popup Menu" />
       <path value="VCS/LVCS Actions" />
@@ -138,6 +41,12 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="PublishGroup.CompareLocalVsRemote" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Project View Popup Menu" />
+      <path value="VCS/LVCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="SynchronizeCurrentFile" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Project View Popup Menu" />
@@ -148,36 +57,30 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="20">
+    <group seperator="true" action_type="1" position="18">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="21">
+    <group value="Scratch.ScratchMenu" is_group="true" action_type="1" position="19">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Scratch.ScratchMenu" is_group="true" action_type="1" position="22">
+    <group value="Scratch.NewScratch" is_action="true" action_type="1" position="20">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Scratch.NewScratch" is_action="true" action_type="1" position="23">
+    <group value="Scratch.OpenScratchList" is_action="true" action_type="1" position="21">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Scratch.OpenScratchList" is_action="true" action_type="1" position="24">
+    <group value="Scratch.OpenDefaultScratch" is_action="true" action_type="1" position="22">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Scratch.OpenDefaultScratch" is_action="true" action_type="1" position="25">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <action id="Scratch.NewScratch" />
   </component>
 </application>
