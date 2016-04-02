@@ -12,9 +12,9 @@
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="220" />
-  <PHPCodeStyleSettings>
-    <option name="CONCAT_SPACES" value="false" />
-  </PHPCodeStyleSettings>
+  <MultiMarkdownCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MultiMarkdownCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
