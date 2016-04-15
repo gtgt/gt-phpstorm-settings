@@ -83,9 +83,6 @@
     <enable-developer-mode value="false" />
     <show-plugin-conflict-dialog value="false" />
   </component>
-  <component name="DependencyUISettings">
-    <option name="UI_FILTER_LEGALS" value="true" />
-  </component>
   <component name="ErrorReportConfigurable">
     <option name="ITN_LOGIN" value="gtgt" />
     <option name="ITN_PASSWORD_CRYPT" value="dG9taWth" />
@@ -102,10 +99,10 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/bin/X11/node">
-      <version-cache version="5.7.0" last-modified="1456327878000" />
+      <version-cache version="5.9.1" last-modified="1459089486000" />
     </local-interpreter>
     <local-interpreter path="/usr/bin/node">
-      <version-cache version="5.7.0" last-modified="1456327878000" />
+      <version-cache version="5.9.1" last-modified="1459089486000" />
     </local-interpreter>
   </component>
   <component name="RecentTaskRepositories">
