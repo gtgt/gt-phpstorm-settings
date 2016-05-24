@@ -8,9 +8,10 @@
         <option value="html.html" />
         <option value="xml.xml" />
         <option value="php.php" />
+        <option value="sql.sql" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="php.php" />
+    <option name="lastOpenedScratch" value="sql.sql" />
     <option name="needMigration" value="false" />
   </component>
 </application>
