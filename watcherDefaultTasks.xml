@@ -167,7 +167,7 @@
     <TaskOptions isEnabled="true">
       <option name="arguments" value="--no-color less/style.less css/style.css" />
       <option name="checkSyntaxErrors" value="true" />
-      <option name="description" value="style.less files into style.css files ($ProjectFileDir$/sites/all/libraries/lessphp/bin)" />
+      <option name="description" value="style.less files into style.css files" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="less" />
       <option name="immediateSync" value="false" />
@@ -179,7 +179,7 @@
       <option name="outputFromStdout" value="false" />
       <option name="program" value="iless" />
       <option name="scopeName" value="style.less" />
-      <option name="trackOnlyRoot" value="false" />
+      <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileParentDir$" />
       <envs />
     </TaskOptions>
@@ -198,7 +198,7 @@
       <option name="outputFromStdout" value="false" />
       <option name="program" value="iless" />
       <option name="scopeName" value="bootstrap.less" />
-      <option name="trackOnlyRoot" value="false" />
+      <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileParentDir$" />
       <envs />
     </TaskOptions>
@@ -217,7 +217,7 @@
       <option name="outputFromStdout" value="false" />
       <option name="program" value="iless" />
       <option name="scopeName" value="ie.less" />
-      <option name="trackOnlyRoot" value="false" />
+      <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileParentDir$" />
       <envs />
     </TaskOptions>
