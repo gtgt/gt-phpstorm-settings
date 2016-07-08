@@ -9,9 +9,10 @@
         <option value="xml.xml" />
         <option value="php.php" />
         <option value="sql.sql" />
+        <option value="xiaomi.css" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.js" />
+    <option name="lastOpenedScratch" value="xiaomi.css" />
     <option name="needMigration" value="false" />
   </component>
 </application>
