@@ -19,7 +19,7 @@
         </array>
       </option>
       <option name="outputFromStdout" value="true" />
-      <option name="program" value="/usr/bin/php" />
+      <option name="program" value="/opt/lessphp/bin/lessc" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileDir$" />
@@ -38,10 +38,10 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="/opt/bin/lessc" />
+      <option name="program" value="/opt/lessphp/bin/lessc" />
       <option name="scopeName" value="style.less" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="$FileParentDir$" />
+      <option name="workingDir" value="$ProjectFileDir$/sites/default/themes/digi" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
@@ -57,7 +57,7 @@
         <array />
       </option>
       <option name="outputFromStdout" value="false" />
-      <option name="program" value="/opt/bin/lessc" />
+      <option name="program" value="/opt/lessphp/bin/lessc" />
       <option name="scopeName" value="bootstrap.less" />
       <option name="trackOnlyRoot" value="false" />
       <option name="workingDir" value="$FileParentDir$" />
