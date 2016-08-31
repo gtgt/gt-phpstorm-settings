@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="134896ee-ad8e-42a5-a7fd-5adea501a394" name="websync.digicable.hu" url="http://digionline.hu">
-        <fileTransfer host="websync.digicable.hu" port="21" password="dfc7dfcfdfc2df9edf9fdf9ddf9cdfe9" username="tamas_gere">
+        <fileTransfer host="websync.digicable.hu" port="21">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" passiveMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="490f2cd8-ac42-48e4-bb47-143d6daf28c2" name="digi.hu" url="http://2014.digi.hu">
-        <fileTransfer host="digiadmin.digicable.hu" port="21" password="dfc7dfcfdfc2df9edf9fdf9ddf9cdfe9" username="tamas_gere">
+        <fileTransfer host="digiadmin.digicable.hu" port="21">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
@@ -21,7 +21,7 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="b3034159-7d1f-4879-949a-67607f08a619" name="ticket" url="http://ticket.digicable.hu">
-        <fileTransfer host="ticket.digicable.hu" port="21" password="dfc7dfcfdfc2df9edf9fdf9ddf9cdfe9" username="tamas_gere">
+        <fileTransfer host="ticket.digicable.hu" port="21">
           <advancedOptions>
             <advancedOptions accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
@@ -29,7 +29,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="d7ff6293-8d9d-4569-a852-744512e1b976" name="kani.hu" url="http://kani.hu/">
-        <fileTransfer host="kani.hu" port="2121" rootFolder="/www" accessType="FTPS" password="dfdedf98df98df99df99dfe9" username="gt">
+        <fileTransfer host="kani.hu" port="2121" rootFolder="/www" accessType="FTPS">
           <advancedOptions>
             <advancedOptions passiveMode="true" />
           </advancedOptions>
@@ -37,7 +37,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="a94837b1-4830-4aa2-8bf5-44a9b5318efc" name="ugyfelkapu.digi.hu" url="http://ugyfelkapu.digi.hu">
-        <fileTransfer host="ugyfelkapu.digi.hu" port="21" password="dfc7dfcfdfc2df9edf9fdf9ddf9cdfe9" username="tamas_gere">
+        <fileTransfer host="ugyfelkapu.digi.hu" port="21">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
@@ -45,7 +45,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="3412a631-7024-40b3-80a0-34b570f92f55" name="digi.hu.test" url="http://digi.hu">
-        <fileTransfer host="digiadmin.digicable.hu" port="21" password="dfc7dfcfdfc2df9edf9fdf9ddf9cdfe9" username="tamas_gere">
+        <fileTransfer host="digiadmin.digicable.hu" port="21">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
@@ -53,7 +53,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="df84d4ba-9dd8-4bc2-8b58-3506a3a6897d" name="helium.digi.hu" url="http://helium.digi.hu">
-        <fileTransfer host="ticket.digicable.hu" port="21" password="dfc7dfcfdfc2df9edf9fdf9ddf9cdfe9" username="tamas_gere">
+        <fileTransfer host="ticket.digicable.hu" port="21">
           <advancedOptions>
             <advancedOptions accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
@@ -61,7 +61,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="6bc1801d-42b7-48b3-96c6-de2a96d8319e" name="ukt.digi.hu" url="http://ukt.digi.hu">
-        <fileTransfer host="ugyfelkapu.digi.hu" port="21" password="dfc7dfcfdfc2df9edf9fdf9ddf9cdfe9" username="tamas_gere">
+        <fileTransfer host="ugyfelkapu.digi.hu" port="21">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
@@ -69,7 +69,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="cb0e3f84-1657-4cde-a274-dfe450f7b20e" name="intranet.digicable.hu" url="http://intranet.digicable.hu">
-        <fileTransfer host="intranet.digicable.hu" port="21" password="dfc7dfcfdfc2df9edf9fdf9ddf9cdfe9" username="tamas.gere">
+        <fileTransfer host="intranet.digicable.hu" port="21">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
@@ -77,7 +77,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="c7b06493-28e2-467b-ab0a-91a64c1648d0" name="kani.hu.ssh" url="http://kani.hu/">
-        <fileTransfer host="kani.hu" port="222" rootFolder="/var/www/" accessType="SFTP" password="dfdedf98df98df99df99dfe9" username="gt">
+        <fileTransfer host="kani.hu" port="222" rootFolder="/var/www/" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -85,7 +85,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="050b5d34-24a5-43a7-b27b-a6ba411fcee9" name="stamfordglobal.com" url="http://stamfordglobal.com">
-        <fileTransfer host="stamfordglobal.com" port="22" rootFolder="/var/www" accessType="SFTP" password="dfd2dfcbdfd9dfcedf9bdf9b" username="root">
+        <fileTransfer host="stamfordglobal.com" port="22" rootFolder="/var/www" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -93,7 +93,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="145c0a8e-16af-4b68-95c1-551abf8d29da" name="npz.devel.stamfordglobal.com" url="http://npz.devel.stamfordglobal.com">
-        <fileTransfer host="npz.devel.stamfordglobal.com" port="21" rootFolder="/npz2013.devel.stamfordglobal.com/" password="dfc7dfcfdfc2df9edf9fdf9ddf9cdfe9" username="gt">
+        <fileTransfer host="npz.devel.stamfordglobal.com" port="21" rootFolder="/npz2013.devel.stamfordglobal.com/">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -101,7 +101,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="1425497e-05c0-4d9f-a3e6-2583a230312d" name="balance.fxloop.eu" url="http://balance.fxloop.eu">
-        <fileTransfer host="fxloop.eu" port="21" rootFolder="/var/www/fxloop.eu/balance/htdocs" password="dfc9dfc3dfc9dfc9" username="gt">
+        <fileTransfer host="fxloop.eu" port="21" rootFolder="/var/www/fxloop.eu/balance/htdocs">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -109,7 +109,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="873ce2d5-c17c-4a61-844f-cf3045e79277" name="old.fxloop.eu" url="http://fxloop.eu">
-        <fileTransfer host="web1.vengit.com" port="21" password="dfc0dfcbdfc2df9fdf9cdf9ddf92df93dff9" username="c68gt">
+        <fileTransfer host="web1.vengit.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -120,7 +120,7 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="f8373835-c0b8-48ee-be3f-5ea91362489e" name="fxloop.eu.sftp" url="http://new.fxloop.eu">
-        <fileTransfer host="new.fxloop.eu" port="222" rootFolder="/var/www/" accessType="SFTP" password="dfc9dfc3dfc9dfc9" username="gt">
+        <fileTransfer host="new.fxloop.eu" port="222" rootFolder="/var/www/" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -128,7 +128,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="92314e02-6195-4f8e-93eb-eae54ba8f54b" name="fxloop.eu.ftp" url="http://fxloop.eu">
-        <fileTransfer host="fxloop.eu" port="21" rootFolder="/var/www" password="dfc9dfc3dfc9dfc9" username="gt">
+        <fileTransfer host="fxloop.eu" port="21" rootFolder="/var/www">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
@@ -136,7 +136,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="5edc2bf4-e7a4-4d71-922b-ffefa4f2b4ff" name="digife2014.digicable.hu" url="http://digife2014.digicable.hu">
-        <fileTransfer host="digife2014.digicable.hu" port="21" password="dfc7dfcfdfc2df9edf9fdf9ddf9cdfe9" username="tamas_gere">
+        <fileTransfer host="digife2014.digicable.hu" port="21">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" controlEncoding="ISO-8859-1" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
@@ -153,7 +153,7 @@
         <fileTransfer accessType="LOCAL" />
       </webServer>
       <webServer id="51673edc-a7dc-4fd6-937a-1e3d0e58cad8" name="aukcio.digi.hu" url="http://aukcio.digi.hu">
-        <fileTransfer host="aukcio.digi.hu" port="21" rootFolder="/aukcio.digi.hu/public_html/" password="dfc7dfcfdfc2df9edf9fdf9ddf9cdfe9" username="tamas_gere">
+        <fileTransfer host="aukcio.digi.hu" port="21" rootFolder="/aukcio.digi.hu/public_html/">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
@@ -161,7 +161,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="e788b60a-9755-48da-9b32-25aefdced53e" name="intranet2.digicable.hu" url="http://intranet2.digicable.hu">
-        <fileTransfer host="intranet2.digicable.hu" port="21" password="dfc7dfcfdfc2df9edf9fdf9ddf9cdfe9" username="tamas_gere">
+        <fileTransfer host="intranet2.digicable.hu" port="21">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
           </advancedOptions>
@@ -169,7 +169,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="b4926685-7d31-45a5-b136-2aa34aae594e" name="statisztika.digicable.hu" url="http://statisztika.digicable.hu">
-        <fileTransfer host="statisztika.digicable.hu" port="21" rootFolder="/public_html" password="dfc7dfcfdfc2df9edf9fdf9ddf9cdfe9" username="tamas_gere">
+        <fileTransfer host="statisztika.digicable.hu" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" passiveMode="true" accurateTimestamps="ALWAYS" />
           </advancedOptions>
@@ -177,5 +177,8 @@
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAIsOxoUmgTTi9aAc4h4pRO57wUgkQoE2MIMeVpEOMzwOzZbuzD2BHYjk6cBYX+wb2cWTlc+CVgVQprATYm7IfxJ0gAQk1j8jpldVL3lhH7BAU5YsSUiQu++AA0OESuf+FbPYxrhw7KX5Gj81bTf1bOfCmfaITglgTz8vFBGrNzJtainwkCEA/UpnfveNVOlzcO6hBg7xgqMqGDttlOIyoF91DvwoVwXbXw9BEUn1MIbVMnqfEESYEVIxiKHNeVPLdgkRkQIZQFX05GW5zm11K5mgDFV4S9nZV4CVX4vTfvGSG1gbn2ruACdqk5tViNGueq+PGbTjNKs7sFoFp9li9ugfC/d7tat1gtxPVMSZrQ6+s0pB5xC7w4i9n2/+gTsQgDAZLpFBCEaP0mcUDygYQcXbatChRy1b7PZS7bnK0hg4FgDVJi9kI6YLP1iL5B0egGf+NbiQfQoD9t+232k+rRH/2eUIBlquPZ/t5WKy+FGCZv87jIHWWop4MIPpHzIXxujT8VlRLR3nRTIhebHeoZj/wqyW63Qsgokkjyt8uTRPjQtJO9RGJh68aCX3+DrnxNDnRpJUnBtWyQQ7hewTwidK1iOe/FtImfDBz7x0KAo6W0GhtJj4+VnyOrud+/i7O896ZPk0ITqysmdllgQLnz4GOh+zGarRW4C/jkC/VLH0LYBqH/QsGbL3KY+LG+6bP6XoerrDCzBIxKQhte3a2Lfe6cYOLRbO6j+y1OFdssYCQaxxSaJabf06EnnAS30aE3OMSFeK3qsKOQTrm/Rn4SNlBEFfAbOIK4zD6TWxYHlTD+h51VCIcg4EeJ5mOtV1ZmijZvpt9ereVfz28WJZMSUCqi/7h+nKTgO1t/iTKajuW8bNaE3JO+r0gVq+d2cP3M4Qwr8ZrtNN3C6+fTZozKETNi0cMbfYFUvcAmdfrBikzKsmZhBK8UD4J8q73l8g9INEa2CI566RiP9VumDlwIOOfR9qNqRpdiBKqQsa48//+Il6I9ObgFVoG9S1eWttz72QgF9/9lDjWrkUHUXhL4/Uk1+LbMqZvDu9mvr9hefVTCLI7jghqOrl27dOimBmEP7dllfjvlzG+GGAfoVEXieT/JMyjZN9bV9mLnDN5oEXV51ZUnrsRQEiCJ/22UIxIgYZlvIx3x/RUMdJYXqxwHRAq4hkkNiJIttr5fy+ZiYtHAVLgXBN14iiY5CmBkdNzLJEcvjTHOL5O29upWGSgcfaAD8/ye5CGye5zmUN4xuZSFWzVqzfmSA0dLzz2P1k5Fged8dDcGO9JtUTGGTNacWXKRpIrhlk/IDQFxm8Wr4e2eErZcl1gyo+/yzt+C/5TtwHLiRyCMHpNvaMcCLOWtUncH+kP9cfNuSMvVxCuo44UC940/B9Qf4y3MUrV1O0Ps3B9enxb+1Vddm7odSGB0FkuE2hTkwBv0lTEe/tH4p3xYcuYAceYhP7QVN/FSkyEt0rk0UB4YKKd5yZKEUcSq2QOgkVS39aKtotmVroehCbJa5VW6+54X/ECtSoJ0KzYvMGDSmLJfvXRftkhwWErS+9uP/ZJA8/9Uyg6sQl/S/3FUiq5+A6tC+c4ifafORsD1N5VZ2nUERVbpWTVXEauZnszufhgMEkRgGSD18G/LW4WR9rtIwC8VrD5bsQ5mnjG+UR2MnDVQhNFzDqq70/qZisQWxUcWb/LuEe2ovhWBEQ0GFp93AFsIVeWGEG/YQdeXkfQxScS9RxKGyTk5/tgOyaqNMpmt6MqbjcxZl1vF6PstG0uJPCZDykLM21VoX3/8QR+kwoDUO7/QTRahMjYE+8nwkFSN1lebHAvMibhiMxdWzIr5a09ps2TMTblhDk3Hs3+1RhwadFZv3aNFqW0rGPahHoi4JGmmmrcb39eOXWsMTzpWh5K4gsij4cjiwNbDoM1GBjc9ALONaOtAmtSR/7UmA1gZQufaw/hc5FToQiUwU3TR14VRWit8fzUcFefnCTmAnJB5nzWqKEmh/GwWaNo3/zz8xvpxmlE9AhDywEJ4Vj8yaj6dmELRB4EP0pzv53UpUUrSUaZNhiEMS5/1boEIY+CrIZSOTzrr4BaHBgkKeTeMWJXL85HS2qbeBHQWRAtIJY6fkcNepkY4ZD/i859cbhle+Hfoc0ehogmsSh2eReBdS/WMP6bsnatee2Frj8j4n3LTNgAiNf0ypyCdnXNAE8SDzWeTTHZmD0JL6PFenkotfHzQuQOlHHDwIF1EdoWKtY/IAQ+89hRxD0Xpxw9R1qIjYM8E0e0ChuSGcDdV4vl0/elgMzvuEQUHusIEvqnL1Ef7JVfFlT9N3NaUIaraY0h6ETj/wSB5hyC4LilY3b4fqciVccayY0uip7f9bVC/J5299BhIgZ37wOfqStT6CBQ2ZzsY+L47hNYpvU6EdkzQdtoQ352nxoVwggD5Lr5+3nx51iksAe1RVwZxCfAbeF1eN8X6vgCfv/sf+Ist3jhXn31zTmYFXBfJN/uU34trD8kS55UIXriN3I3zCGxoaJR5R6+0A86ksBGOo4/XlNHqmEs1zz57l4y7lF/mW8zPf9xQLousBuDUk2v/cdKFCGtOlJZYeu98kjFAqjgkc0NGBIauKc6sHKAR/dRBSjuqnfsZX1+dltphPCPaQ/tZPKMRVJvov6/5shvdOINCz1LWgHxAqOVH55ZEeqS/I2byHV60hP4U+hytSQeGl2iSzf4h40m1PQD8sAlEaXvgTajBRrwcEPN/algNObEjodC2C7PcfIT36jxzxCfmFOtTzqtE6MfYzawfSkKGtxDwQOb8IejKDMYKLHg0CWefYDApP7UFvSaoYhZmQi17XANRodRg36jGtf98YYv3YdJbN22TFFcbzUnpqRLQkkwwCfAO7DTnZa24Z6Hgbe1dK1t4S5/cT0GLxLGzUgn08xjfngZZU/IEPZew2GG9w1/+ZnxzNpOumIu7fBTd9U+170LwWo7vWzTwp/2Xv17R+NEb</data>
   </component>
 </application>
