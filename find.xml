@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '/mnt/develop/webmail'" />
     <option name="defaultScopeName" value="Directory '/mnt/develop/webmail'" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '/mnt/develop/webmail'" />
     <option name="FILE_MASK" value="*.html,*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install, *.json" />
     <recentFileMasks>
