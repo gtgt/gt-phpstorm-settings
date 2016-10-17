@@ -1,5 +1,5 @@
 <application>
-  <component name="WebBrowsersConfiguration" default="first">
+  <component name="WebBrowsersConfiguration">
     <browser id="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" name="Firefox" family="FIREFOX" />
     <browser id="e0c8339d-533a-489f-bec7-409729760382" name="Chromium" family="CHROME" path="chromium" />
     <browser id="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" name="Chrome" family="CHROME" />
