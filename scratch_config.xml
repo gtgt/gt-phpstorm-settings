@@ -10,9 +10,10 @@
         <option value="php.php" />
         <option value="sql.sql" />
         <option value="xiaomi.css" />
+        <option value="user.json" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="json.json" />
+    <option name="lastOpenedScratch" value="user.json" />
     <option name="needMigration" value="false" />
   </component>
 </application>
