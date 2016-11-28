@@ -17,8 +17,8 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="local-default">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.0.12">
-          <additional_php_ini>/etc/php7/conf.d/apcu.ini, /etc/php7/conf.d/bcmath.ini, /etc/php7/conf.d/bz2.ini, /etc/php7/conf.d/calendar.ini, /etc/php7/conf.d/ctype.ini, /etc/php7/conf.d/curl.ini, /etc/php7/conf.d/dom.ini, /etc/php7/conf.d/exif.ini, /etc/php7/conf.d/fileinfo.ini, /etc/php7/conf.d/ftp.ini, /etc/php7/conf.d/gd.ini, /etc/php7/conf.d/iconv.ini, /etc/php7/conf.d/imap.ini, /etc/php7/conf.d/json.ini, /etc/php7/conf.d/ldap.ini, /etc/php7/conf.d/mbstring.ini, /etc/php7/conf.d/mcrypt.ini, /etc/php7/conf.d/memcached.ini, /etc/php7/conf.d/mysqli.ini, /etc/php7/conf.d/odbc.ini, /etc/php7/conf.d/opcache.ini, /etc/php7/conf.d/openssl.ini, /etc/php7/conf.d/pcntl.ini, /etc/php7/conf.d/pdo.ini, /etc/php7/conf.d/pdo_mysql.ini, /etc/php7/conf.d/pdo_odbc.ini, /etc/php7/conf.d/pdo_sqlite.ini, /etc/php7/conf.d/phalcon.ini, /etc/php7/conf.d/phar.ini, /etc/php7/conf.d/posix.ini, /etc/php7/conf.d/pspell.ini, /etc/php7/conf.d/redis.ini, /etc/php7/conf.d/shmop.ini, /etc/php7/conf.d/soap.ini, /etc/php7/conf.d/sockets.ini, /etc/php7/conf.d/sqlite3.ini, /etc/php7/conf.d/sysvmsg.ini, /etc/php7/conf.d/sysvsem.ini, /etc/php7/conf.d/sysvshm.ini, /etc/php7/conf.d/tidy.ini, /etc/php7/conf.d/tokenizer.ini, /etc/php7/conf.d/xdebug.ini, /etc/php7/conf.d/xmlreader.ini, /etc/php7/conf.d/xmlrpc.ini, /etc/php7/conf.d/xmlwriter.ini, /etc/php7/conf.d/zip.ini, /etc/php7/conf.d/zlib.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.0.5">
+          <additional_php_ini>/etc/php7/conf.d/apcu.ini, /etc/php7/conf.d/bcmath.ini, /etc/php7/conf.d/bz2.ini, /etc/php7/conf.d/calendar.ini, /etc/php7/conf.d/ctype.ini, /etc/php7/conf.d/curl.ini, /etc/php7/conf.d/dom.ini, /etc/php7/conf.d/exif.ini, /etc/php7/conf.d/fileinfo.ini, /etc/php7/conf.d/ftp.ini, /etc/php7/conf.d/gd.ini, /etc/php7/conf.d/iconv.ini, /etc/php7/conf.d/imap.ini, /etc/php7/conf.d/intl.ini, /etc/php7/conf.d/json.ini, /etc/php7/conf.d/ldap.ini, /etc/php7/conf.d/mbstring.ini, /etc/php7/conf.d/mcrypt.ini, /etc/php7/conf.d/memcached.ini, /etc/php7/conf.d/mysqli.ini, /etc/php7/conf.d/odbc.ini, /etc/php7/conf.d/opcache.ini, /etc/php7/conf.d/openssl.ini, /etc/php7/conf.d/pcntl.ini, /etc/php7/conf.d/pdo.ini, /etc/php7/conf.d/pdo_mysql.ini, /etc/php7/conf.d/pdo_odbc.ini, /etc/php7/conf.d/pdo_sqlite.ini, /etc/php7/conf.d/phalcon.ini, /etc/php7/conf.d/phar.ini, /etc/php7/conf.d/posix.ini, /etc/php7/conf.d/pspell.ini, /etc/php7/conf.d/redis.ini, /etc/php7/conf.d/shmop.ini, /etc/php7/conf.d/soap.ini, /etc/php7/conf.d/sockets.ini, /etc/php7/conf.d/sqlite3.ini, /etc/php7/conf.d/sysvmsg.ini, /etc/php7/conf.d/sysvsem.ini, /etc/php7/conf.d/sysvshm.ini, /etc/php7/conf.d/tidy.ini, /etc/php7/conf.d/tokenizer.ini, /etc/php7/conf.d/xdebug.ini, /etc/php7/conf.d/xmlreader.ini, /etc/php7/conf.d/xmlrpc.ini, /etc/php7/conf.d/xmlwriter.ini, /etc/php7/conf.d/zip.ini, /etc/php7/conf.d/zlib.ini</additional_php_ini>
           <configuration_file>/etc/php7/cli/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
@@ -105,6 +105,9 @@
             <configuration_option name="include_path" value=".:/usr/share/php7:/usr/share/php7/PEAR" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
+            <configuration_option name="intl.default_locale" value="" />
+            <configuration_option name="intl.error_level" value="0" />
+            <configuration_option name="intl.use_exceptions" value="0" />
             <configuration_option name="ldap.max_links" value="-1" />
             <configuration_option name="log_errors" value="1" />
             <configuration_option name="log_errors_max_len" value="1024" />
@@ -203,7 +206,6 @@
             <configuration_option name="opcache.huge_code_pages" value="0" />
             <configuration_option name="opcache.inherited_hack" value="1" />
             <configuration_option name="opcache.interned_strings_buffer" value="4" />
-            <configuration_option name="opcache.lockfile_path" value="/tmp" />
             <configuration_option name="opcache.log_verbosity_level" value="1" />
             <configuration_option name="opcache.max_accelerated_files" value="2000" />
             <configuration_option name="opcache.max_file_size" value="0" />
@@ -417,6 +419,7 @@
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="imap" />
+            <extension name="intl" />
             <extension name="json" />
             <extension name="ldap" />
             <extension name="libxml" />
