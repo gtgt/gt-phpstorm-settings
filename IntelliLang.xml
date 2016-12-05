@@ -9,5 +9,14 @@
       <display-name>&quot;SQL select/delete/insert/update/create&quot;</display-name>
       <place disabled="true"><![CDATA[phpLiteralExpression().withText(string().matchesBrics(" *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE .* SET)|((CREATE|DROP|ALTER) +((TEMPORARY )?TABLE|(UNIQUE )?INDEX))) .*"))]]></place>
     </injection>
+    <injection language="SCSS" injector-id="xml">
+      <display-name>style/@data-type</display-name>
+      <value-pattern>text/scss</value-pattern>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("data-type")).withParent(xmlTag().withLocalName(string().equalTo("style")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="SCSS" injector-id="xml">
+      <display-name>style/@data-type</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("data-type")).withParent(xmlTag().withLocalName(string().equalTo("style")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
   </component>
 </application>
