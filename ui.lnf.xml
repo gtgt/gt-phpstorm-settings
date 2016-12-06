@@ -3,6 +3,7 @@
     <option name="UI_FILTER_LEGALS" value="true" />
   </component>
   <component name="UISettings">
+    <option name="FONT_SIZE" value="14" />
     <option name="RECENT_FILES_LIMIT" value="20" />
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="30" />
     <option name="EDITOR_TAB_LIMIT" value="15" />
@@ -14,6 +15,7 @@
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="MAX_CLIPBOARD_CONTENTS" value="15" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="9" />
