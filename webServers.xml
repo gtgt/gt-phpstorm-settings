@@ -9,7 +9,7 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="490f2cd8-ac42-48e4-bb47-143d6daf28c2" name="digi.hu" url="http://2014.digi.hu">
+      <webServer id="490f2cd8-ac42-48e4-bb47-143d6daf28c2" name="digi.hu" url="http://digiadmin.digicable.hu">
         <fileTransfer host="digiadmin.digicable.hu" port="21">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
