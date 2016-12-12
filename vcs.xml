@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="gtgt" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://develop.digicable.hu" />
+          <option name="userName" value="gt" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
