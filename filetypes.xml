@@ -13,6 +13,7 @@
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
+      <mapping ext="r6544" type="PHP" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
       <removed_mapping ext="htaccess" type="PLAIN_TEXT" />
