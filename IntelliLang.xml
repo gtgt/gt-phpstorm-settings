@@ -7,7 +7,7 @@
     <option name="RESOLVE_REFERENCES" value="true" />
     <injection language="SQL" injector-id="php">
       <display-name>&quot;SQL select/delete/insert/update/create&quot;</display-name>
-      <place disabled="true"><![CDATA[phpLiteralExpression().withText(string().matchesBrics(" *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE .* SET)|((CREATE|DROP|ALTER) +((TEMPORARY )?TABLE|(UNIQUE )?INDEX))) .*"))]]></place>
+      <place disabled="true"><![CDATA[phpLiteralExpression().withText(string().matchesBrics("[\"'] *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE .* SET)|((CREATE|DROP|ALTER) +((TEMPORARY )?TABLE|(UNIQUE )?INDEX))) .*[\"'']?"))]]></place>
     </injection>
     <injection language="SCSS" injector-id="xml">
       <display-name>style/@data-type</display-name>
