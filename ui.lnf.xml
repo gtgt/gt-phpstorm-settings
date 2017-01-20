@@ -3,7 +3,7 @@
     <option name="UI_FILTER_LEGALS" value="true" />
   </component>
   <component name="UISettings">
-    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_SIZE" value="12" />
     <option name="RECENT_FILES_LIMIT" value="20" />
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="30" />
     <option name="EDITOR_TAB_LIMIT" value="15" />
