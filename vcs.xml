@@ -10,6 +10,10 @@
           <option name="url" value="http://develop.digicable.hu" />
           <option name="userName" value="gt" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.hq.virgo.hu" />
+          <option name="userName" value="gere.tamas" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
