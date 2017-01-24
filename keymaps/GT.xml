@@ -30,6 +30,9 @@
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl period" />
   </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="IDEtalk.Rename" />
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl p" />
@@ -51,6 +54,10 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+    <keyboard-shortcut first-keystroke="shift f2" />
+  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
     <keyboard-shortcut first-keystroke="ctrl space" />
