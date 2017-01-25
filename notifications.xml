@@ -17,7 +17,6 @@
     <notification groupId="LESS Compiler Error Messages" displayType="STICKY_BALLOON" />
     <notification groupId="LESS Compiler Notices" displayType="NONE" />
     <notification groupId="LESS Compiler Successful Compiles" displayType="TOOL_WINDOW" shouldLog="false" />
-    <notification groupId="LIGHTWEIGHT_LICENSE_NOTIFICATION" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Node.js Boilerplate Project Generator" displayType="STICKY_BALLOON" />
     <notification groupId="PHP Debugger" displayType="TOOL_WINDOW" />
     <notification groupId="System" displayType="STICKY_BALLOON" shouldLog="false" />
