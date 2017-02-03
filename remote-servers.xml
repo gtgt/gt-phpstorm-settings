@@ -1,0 +1,9 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="local" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///run/containerd/containerd.sock" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>

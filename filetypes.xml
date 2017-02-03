@@ -5,20 +5,24 @@
       <mapping ext="" type="HTML" />
       <mapping pattern=".editorconfig" type="Ini" />
       <mapping ext="info" type="Ini" />
+      <mapping pattern="*appadmin.log" type="JSON" />
+      <mapping pattern="doctrine.log" type="JSON" />
+      <mapping ext="ods" type="Native" />
       <mapping ext="mo" type="Native" />
       <mapping ext="xcf" type="Native" />
-      <mapping ext="ods" type="Native" />
-      <mapping ext="test" type="PHP" />
-      <mapping ext="r6544" type="PHP" />
       <mapping ext="profile" type="PHP" />
-      <mapping ext="engine" type="PHP" />
       <mapping ext="theme" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
+      <mapping ext="r6544" type="PHP" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
       <removed_mapping ext="htaccess" type="PLAIN_TEXT" />
-      <mapping ext="xlf" type="XML" />
       <mapping ext="xliff" type="XML" />
+      <mapping ext="xlf" type="XML" />
+      <mapping pattern="*.yml.dist" type="YAML" />
+      <mapping pattern="*.yaml.dist" type="YAML" />
       <mapping ext="htaccess" type="htaccess" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
