@@ -37,6 +37,9 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
+  <action id="PhpGenerateGettersAndSetters">
+    <keyboard-shortcut first-keystroke="meta insert" />
+  </action>
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
