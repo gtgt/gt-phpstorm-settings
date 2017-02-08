@@ -13,6 +13,7 @@
   </option>
   <option name="RIGHT_MARGIN" value="220" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <JSCodeStyleSettings>
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="INDENT_CHAINED_CALLS" value="false" />

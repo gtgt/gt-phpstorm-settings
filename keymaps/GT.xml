@@ -18,14 +18,13 @@
     <keyboard-shortcut first-keystroke="shift f1" />
     <keyboard-shortcut first-keystroke="shift ctrl alt space" />
   </action>
-  <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="ctrl f12" />
-    <keyboard-shortcut first-keystroke="shift ctrl f12" />
-    <keyboard-shortcut first-keystroke="meta alt space" />
-  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl o" />
     <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift alt o" />
+    <keyboard-shortcut first-keystroke="meta alt space" />
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl period" />
@@ -37,6 +36,9 @@
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+  <action id="PhpGenerateGettersAndSetters">
+    <keyboard-shortcut first-keystroke="meta insert" />
   </action>
   <action id="PublishGroup.Upload">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
