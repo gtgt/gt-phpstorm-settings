@@ -9,7 +9,6 @@
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
-      <mask>*.js</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -18,9 +17,10 @@
       <mask>*.html,*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install, *.json</mask>
       <mask>*.html,*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install, *.json, *.yml</mask>
       <mask>*.php</mask>
-      <mask>*.yml</mask>
       <mask>*.html.php</mask>
       <mask>*.xlf</mask>
+      <mask>*.js</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>

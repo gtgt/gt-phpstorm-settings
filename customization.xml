@@ -70,6 +70,11 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="tasks.and.contexts" is_group="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Main menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="Git.ContextMenu" is_group="true" action_type="1" position="12">
       <path value="root" />
       <path value="Project View Popup Menu" />
@@ -146,11 +151,6 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="PublishGroup.Download" is_action="true" action_type="1" position="29">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="tasks.and.contexts" is_group="true" action_type="1" position="36">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
