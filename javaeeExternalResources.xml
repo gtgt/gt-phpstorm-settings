@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://maven.apache.org/xsd/maven-4.0.0.xsd" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/e1f42d95_maven-4.0.0.xsd" />
     <resource url="http://schemas.xmlsoap.org/soap/encoding/" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/cad5bd9d_.xml" />
     <resource url="http://schemas.xmlsoap.org/wsdl/" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/42abd8c6_.xml" />
     <resource url="http://schemas.xmlsoap.org/wsdl/http/" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/9ecabba1_.xml" />
