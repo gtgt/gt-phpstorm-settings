@@ -2,7 +2,7 @@
   <component name="RemoteServers">
     <remote-server name="local" type="docker">
       <configuration>
-        <option name="apiUrl" value="unix:///run/containerd/containerd.sock" />
+        <option name="apiUrl" value="unix:///run/docker/libcontainerd/docker-containerd.sock" />
       </configuration>
     </remote-server>
   </component>
