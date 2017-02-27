@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="ai-common/src" />
     <option name="defaultScopeName" value="ai-common/src" />
+    <option name="preserveCase" value="true" />
+    <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="ai-common/src" />
     <recentFileMasks>
       <mask>*.properties</mask>

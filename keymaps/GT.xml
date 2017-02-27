@@ -52,6 +52,7 @@
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="alt f2" />
+    <keyboard-shortcut first-keystroke="meta f2" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl h" />
