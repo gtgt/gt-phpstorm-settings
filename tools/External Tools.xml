@@ -6,4 +6,11 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/spica" />
     </exec>
   </tool>
+  <tool name="newman" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="newman" />
+      <option name="PARAMETERS" value=" run tests/basic-test.json -e config/build.json" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/newman" />
+    </exec>
+  </tool>
 </toolSet>
