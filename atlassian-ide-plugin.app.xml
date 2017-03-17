@@ -14,6 +14,7 @@
       <GeneralConfigurationBean>
         <option name="anonymousEnhancedFeedbackEnabled" value="false" />
         <option name="checkNowButtonOption" value="STABLE_AND_SNAPSHOT" />
+        <option name="checkUnstableVersionsEnabled" value="true" />
         <option name="statsCountersMap">
           <map>
             <entry key="a" value="0" />
