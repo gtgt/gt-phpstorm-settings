@@ -1,0 +1,6 @@
+<application>
+  <component name="CrucibleSettings">
+    <option name="SERVER_URL" value="https://fisheye.virgo.hu/" />
+    <option name="USERNAME" value="gere.tamas" />
+  </component>
+</application>
