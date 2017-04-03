@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="ai-common/src" />
     <option name="defaultScopeName" value="ai-common/src" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="ai-common/src" />
     <recentFileMasks>
       <mask>*.properties</mask>
