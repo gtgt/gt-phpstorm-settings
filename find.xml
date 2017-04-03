@@ -3,7 +3,7 @@
     <option name="customScope" value="ai-common/src" />
     <option name="defaultScopeName" value="ai-common/src" />
     <option name="SEARCH_SCOPE" value="ai-common/src" />
-    <option name="FILE_MASK" value="*.xlf" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,12 +23,12 @@
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
+      <mask>*.xlf</mask>
+      <mask>*.xl</mask>
+      <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
-      <mask>*.x</mask>
-      <mask>*.xl</mask>
-      <mask>*.xlf</mask>
     </recentFileMasks>
   </component>
 </application>
