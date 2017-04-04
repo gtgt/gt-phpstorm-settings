@@ -7,7 +7,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="ai-common/src" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -22,7 +22,6 @@
       <mask>*.html,*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install, *.json</mask>
       <mask>*.html,*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install, *.json, *.yml</mask>
       <mask>*.html.php</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.xlf</mask>
       <mask>*.xl</mask>
@@ -36,6 +35,7 @@
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
