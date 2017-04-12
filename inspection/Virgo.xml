@@ -1,5 +1,5 @@
 <profile version="1.0">
-  <option name="myName" value="GT" />
+  <option name="myName" value="Virgo" />
   <inspection_tool class="AdditionOperationOnArraysInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CallableParameterUseCaseInTypeContextInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CheckEmptyScriptTag" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
