@@ -96,6 +96,7 @@
   <inspection_tool class="RequiredAttributes" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="myAdditionalRequiredHtmlAttributes" value="" />
   </inspection_tool>
+  <inspection_tool class="SlowArrayOperationsInLoopInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="SqlResolveInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="TraitsPropertiesConflictsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="TrivialConditionalJS" enabled="false" level="WARNING" enabled_by_default="false" />
