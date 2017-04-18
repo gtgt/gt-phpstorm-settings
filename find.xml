@@ -7,13 +7,8 @@
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="ai-common/src" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install</mask>
       <mask>*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install, *.json</mask>
@@ -27,7 +22,6 @@
       <mask>*.yn</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
-      <mask>*.ph</mask>
       <mask>*.yaMN</mask>
       <mask>*.yalé</mask>
       <mask>*.yal</mask>
@@ -35,9 +29,16 @@
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.kle</mask>
+      <mask>*.kl</mask>
+      <mask>*.k</mask>
+      <mask>*.</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
