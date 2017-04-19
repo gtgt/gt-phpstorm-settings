@@ -20,8 +20,6 @@
       <mask>*.x</mask>
       <mask>*.ynm</mask>
       <mask>*.yn</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.yaMN</mask>
       <mask>*.yalé</mask>
       <mask>*.yal</mask>
@@ -33,10 +31,12 @@
       <mask>*.kle</mask>
       <mask>*.kl</mask>
       <mask>*.k</mask>
-      <mask>*.</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
     </recentFileMasks>
