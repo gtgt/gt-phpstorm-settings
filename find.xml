@@ -9,6 +9,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Favorite 'vendor'" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.mxml</mask>
       <mask>*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install</mask>
@@ -25,10 +26,6 @@
       <mask>*.yalé</mask>
       <mask>*.yal</mask>
       <mask>*.ya</mask>
-      <mask>*.yml</mask>
-      <mask>*.ym</mask>
-      <mask>*.y</mask>
-      <mask>*.ph</mask>
       <mask>*.kle</mask>
       <mask>*.kl</mask>
       <mask>*.k</mask>
@@ -37,9 +34,13 @@
       <mask>*.less</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
