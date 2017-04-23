@@ -1,27 +1,43 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="ai-common/src" />
-    <option name="defaultScopeName" value="ai-common/src" />
-    <option name="SEARCH_SCOPE" value="ai-common/src" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="preserveCase" value="true" />
+    <option name="showResultsInSeparateView" value="true" />
+    <option name="PRESERVE_CASE_REPLACE" value="true" />
+    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install</mask>
       <mask>*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install, *.json</mask>
       <mask>*.html,*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install, *.json</mask>
       <mask>*.html,*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install, *.json, *.yml</mask>
       <mask>*.html.php</mask>
-      <mask>*.xlf</mask>
+      <mask>*.ynm</mask>
+      <mask>*.yn</mask>
+      <mask>*.yaMN</mask>
+      <mask>*.yalé</mask>
+      <mask>*.yal</mask>
+      <mask>*.ya</mask>
+      <mask>*.kle</mask>
+      <mask>*.kl</mask>
+      <mask>*.k</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
       <mask>*.js</mask>
-      <mask>*.yml</mask>
+      <mask>*.j</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xl</mask>
+      <mask>*.xlf</mask>
     </recentFileMasks>
   </component>
 </application>
