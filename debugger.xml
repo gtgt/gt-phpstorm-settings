@@ -8,7 +8,9 @@
       <debugger id="javascript">
         <configuration doNotStepIntoLibraryCode="false">
           <custom-object-presentation />
-          <stepping-filters-enabled>false</stepping-filters-enabled>
+          <stepping-filters>
+            <stepping-filter url-pattern="cache/*" />
+          </stepping-filters>
         </configuration>
       </debugger>
     </debuggers>
