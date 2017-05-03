@@ -14,10 +14,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt v" />
     <keyboard-shortcut first-keystroke="shift insert" />
   </action>
-  <action id="ExternalJavaDoc">
-    <keyboard-shortcut first-keystroke="shift f1" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt space" />
-  </action>
   <action id="ExternalToolsGroup">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
@@ -34,6 +30,10 @@
   </action>
   <action id="GotoPreviousError">
     <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt space" />
   </action>
   <action id="IDEtalk.Rename" />
   <action id="IntroduceConstant" />
@@ -85,6 +85,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="Symfony2Symbols">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt space" />
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f2" />
