@@ -1,12 +1,5 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://maven.apache.org/xsd/maven-4.0.0.xsd" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/e1f42d95_maven-4.0.0.xsd" />
-    <resource url="http://schemas.xmlsoap.org/soap/encoding/" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/cad5bd9d_.xml" />
-    <resource url="http://schemas.xmlsoap.org/wsdl/" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/42abd8c6_.xml" />
-    <resource url="http://schemas.xmlsoap.org/wsdl/http/" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/9ecabba1_.xml" />
-    <resource url="http://schemas.xmlsoap.org/wsdl/mime/" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/9f0c1575_.xml" />
-    <resource url="http://schemas.xmlsoap.org/wsdl/soap/" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/9f6330fe_.xml" />
-    <resource url="http://schemas.xmlsoap.org/wsdl/soap12/wsdl11soap12.xsd" location="$USER_HOME$/.PhpStorm2016.3/system/extResources/6640c088_wsdl11soap12.xsd" />
-    <resource url="http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd" location="http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd" />
   </component>
 </application>
