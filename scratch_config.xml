@@ -3,16 +3,10 @@
     <option name="defaultScratchMeaning" value="LAST_OPENED" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="json.json" />
-        <option value="scratch.js" />
-        <option value="html.html" />
-        <option value="xml.xml" />
-        <option value="php.php" />
-        <option value="sql.sql" />
-        <option value="xiaomi.css" />
+        <option value="scratch.json" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="json.json" />
+    <option name="lastOpenedScratch" value="scratch.json" />
     <option name="needMigration" value="false" />
   </component>
 </application>
