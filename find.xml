@@ -5,10 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
-      <mask>*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install, *.json</mask>
-      <mask>*.html,*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install, *.json</mask>
       <mask>*.html,*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install, *.json, *.yml</mask>
       <mask>*.html.php</mask>
       <mask>*.ynm</mask>
@@ -20,9 +18,6 @@
       <mask>*.kle</mask>
       <mask>*.kl</mask>
       <mask>*.k</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.phgpo</mask>
@@ -31,12 +26,17 @@
       <mask>*.xlf</mask>
       <mask>*.xl</mask>
       <mask>*.x</mask>
-      <mask>*.yml</mask>
-      <mask>*.ym</mask>
-      <mask>*.y</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.lé</mask>
+      <mask>*.l</mask>
+      <mask>*.</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
