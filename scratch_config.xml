@@ -4,9 +4,10 @@
     <option name="fullScratchNamesOrdered">
       <list>
         <option value="scratch.json" />
+        <option value="AbstractSet.php" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scratch.json" />
+    <option name="lastOpenedScratch" value="AbstractSet.php" />
     <option name="needMigration" value="false" />
   </component>
 </application>
