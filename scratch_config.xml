@@ -5,9 +5,10 @@
       <list>
         <option value="scratch.json" />
         <option value="AbstractSet.php" />
+        <option value="ed_image.php" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="AbstractSet.php" />
+    <option name="lastOpenedScratch" value="ed_image.php" />
     <option name="needMigration" value="false" />
   </component>
 </application>
