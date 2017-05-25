@@ -7,6 +7,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl space" />
   </action>
   <action id="Console.History.Browse" />
+  <action id="CopyReference" />
   <action id="EditorPaste">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
@@ -92,10 +93,10 @@
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
-  <action id="Tool_External Tools_cs-fix">
-    <keyboard-shortcut first-keystroke="shift alt c" />
-  </action>
   <action id="Tool_spica_cs-fix">
+    <keyboard-shortcut first-keystroke="shift ctrl alt c" />
+  </action>
+  <action id="Tool_spica_cs-fix changed">
     <keyboard-shortcut first-keystroke="shift alt c" />
   </action>
   <action id="Tool_spica_unittest">
