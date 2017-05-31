@@ -19,13 +19,11 @@
       <mask>*.ymkl</mask>
       <mask>*.ymk</mask>
       <mask>*.ph</mask>
-      <mask>*.</mask>
       <mask>*.y</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
-      <mask>*.js</mask>
       <mask>*.t</mask>
       <mask>*.tp</mask>
       <mask>*.tpl</mask>
@@ -36,6 +34,8 @@
       <mask>*.ht.php</mask>
       <mask>*.htm.php</mask>
       <mask>*.html.php</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
