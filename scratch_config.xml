@@ -6,9 +6,10 @@
         <option value="scratch.json" />
         <option value="AbstractSet.php" />
         <option value="ed_image.php" />
+        <option value="regex_replace.js" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="ed_image.php" />
+    <option name="lastOpenedScratch" value="regex_replace.js" />
     <option name="needMigration" value="false" />
   </component>
 </application>
