@@ -5,12 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.less</mask>
-      <mask>*.ymkl</mask>
-      <mask>*.ymk</mask>
-      <mask>*.y</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
       <mask>*.t</mask>
@@ -22,8 +18,6 @@
       <mask>*.h.php</mask>
       <mask>*.ht.php</mask>
       <mask>*.htm.php</mask>
-      <mask>*.html.php</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.xlf</mask>
       <mask>*.xl</mask>
@@ -37,6 +31,12 @@
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.hphp</mask>
+      <mask>*.htphp</mask>
+      <mask>*.htmphp</mask>
+      <mask>*.htmlphp</mask>
+      <mask>*.html.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
