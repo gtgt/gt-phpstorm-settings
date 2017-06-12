@@ -14,9 +14,6 @@
       <mask>*.h.php</mask>
       <mask>*.ht.php</mask>
       <mask>*.htm.php</mask>
-      <mask>*.xlf</mask>
-      <mask>*.xl</mask>
-      <mask>*.x</mask>
       <mask>*.őph</mask>
       <mask>*.őp</mask>
       <mask>*.őh</mask>
@@ -32,10 +29,13 @@
       <mask>*.html.php</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.y</mask>
-      <mask>*.ym</mask>
       <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xl</mask>
+      <mask>*.xlf</mask>
     </recentFileMasks>
   </component>
 </application>
