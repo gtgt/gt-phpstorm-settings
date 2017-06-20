@@ -4,12 +4,11 @@
     <option name="fullScratchNamesOrdered">
       <list>
         <option value="scratch.json" />
-        <option value="AbstractSet.php" />
-        <option value="ed_image.php" />
-        <option value="regex_replace.js" />
+        <option value="scratch.sql" />
+        <option value="scratch.xml" />
+        <option value="scratch_1.xml" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="regex_replace.js" />
-    <option name="needMigration" value="false" />
+    <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
