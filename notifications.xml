@@ -20,7 +20,7 @@
     <notification groupId="Node.js Boilerplate Project Generator" displayType="STICKY_BALLOON" />
     <notification groupId="PHP Debugger" displayType="TOOL_WINDOW" />
     <notification groupId="System" displayType="STICKY_BALLOON" shouldLog="false" />
-    <notification groupId="Task Browser" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Task Browser" displayType="NONE" shouldLog="false" />
     <notification groupId="Web Deployment" displayType="NONE" />
   </component>
 </application>

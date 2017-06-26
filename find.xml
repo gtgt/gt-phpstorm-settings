@@ -6,36 +6,36 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.html,*.php,*.js,*.inc,*.tpl, *.module,*.info,*.engine,*.template, *.css, *.less, *.test, *.install, *.json, *.yml</mask>
+      <mask>*.tpl.p</mask>
+      <mask>*.tpl.php</mask>
+      <mask>*.h.php</mask>
+      <mask>*.ht.php</mask>
+      <mask>*.htm.php</mask>
+      <mask>*.őph</mask>
+      <mask>*.őp</mask>
+      <mask>*.őh</mask>
+      <mask>*.ő</mask>
+      <mask>*.pj</mask>
+      <mask>*.hphp</mask>
+      <mask>*.htphp</mask>
+      <mask>*.htmphp</mask>
+      <mask>*.htmlphp</mask>
       <mask>*.html.php</mask>
-      <mask>*.ynm</mask>
-      <mask>*.yn</mask>
-      <mask>*.yaMN</mask>
-      <mask>*.yalé</mask>
-      <mask>*.yal</mask>
-      <mask>*.ya</mask>
-      <mask>*.kle</mask>
-      <mask>*.kl</mask>
-      <mask>*.k</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.phgpo</mask>
-      <mask>*.phg</mask>
-      <mask>*.ph</mask>
       <mask>*.xlf</mask>
       <mask>*.xl</mask>
       <mask>*.x</mask>
-      <mask>*.lé</mask>
-      <mask>*.l</mask>
+      <mask>*.ph</mask>
+      <mask>*.ynm</mask>
+      <mask>*.yn</mask>
       <mask>*.</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
+      <mask>*.ya</mask>
       <mask>*.y</mask>
       <mask>*.ym</mask>
       <mask>*.yml</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>

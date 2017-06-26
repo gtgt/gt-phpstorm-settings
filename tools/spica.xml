@@ -20,4 +20,25 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/newman" />
     </exec>
   </tool>
+  <tool name="unittest" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="make" />
+      <option name="PARAMETERS" value="test" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/spica" />
+    </exec>
+  </tool>
+  <tool name="test-prepare" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="make" />
+      <option name="PARAMETERS" value="test-prepare" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/spica" />
+    </exec>
+  </tool>
+  <tool name="cs-fix changed" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="make" />
+      <option name="PARAMETERS" value="cs-fix-changed" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/spica" />
+    </exec>
+  </tool>
 </toolSet>

@@ -1,4 +1,5 @@
 <scheme name="GT" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0833334" />
   <option name="LINE_SPACING" value="1.05" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
@@ -7,7 +8,7 @@
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="LINE_NUMBERS_COLOR" value="0" />
-    <option name="WHITESPACES" value="f1f1f1" />
+    <option name="WHITESPACES" value="dfdfdf" />
   </colors>
   <attributes>
     <option name="APACHE_CONFIG.ARG_LEXEM">
