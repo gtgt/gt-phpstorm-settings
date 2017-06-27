@@ -1,26 +1,26 @@
 <toolSet name="spica">
-  <tool name="docker-search-run" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+  <tool name="docker-search-run" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="make" />
       <option name="PARAMETERS" value="docker-search-run" />
       <option name="WORKING_DIRECTORY" value="$Projectpath$" />
     </exec>
   </tool>
-  <tool name="cs-fix" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="cs-fix" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="make" />
       <option name="PARAMETERS" value="cs-fix" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/spica" />
     </exec>
   </tool>
-  <tool name="newman" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="newman" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="newman" />
       <option name="PARAMETERS" value=" run tests/basic-test.json -e config/build.json" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/newman" />
     </exec>
   </tool>
-  <tool name="unittest" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="unittest" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="make" />
       <option name="PARAMETERS" value="test" />
@@ -34,7 +34,7 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/spica" />
     </exec>
   </tool>
-  <tool name="cs-fix changed" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="cs-fix changed" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="make" />
       <option name="PARAMETERS" value="cs-fix-changed" />
