@@ -3,7 +3,14 @@
     <option name="defaultScratchMeaning" value="LAST_OPENED" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="user.json" />
+        <option value="scratch.sql" />
+        <option value="scratch.xml" />
+        <option value="ed_image.php" />
+        <option value="scratch.json" />
+        <option value="_scratch.json" />
+        <option value="scratch_1.xml" />
+        <option value="AbstractSet.php" />
+        <option value="regex_replace.js" />
       </list>
     </option>
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
