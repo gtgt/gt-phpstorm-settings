@@ -3,6 +3,7 @@
     <option name="FONT_SIZE" value="13" />
     <option name="FONT_SCALE" value="1.1666666" />
     <option name="LINE_SPACING" value="1.05" />
+    <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
