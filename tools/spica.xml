@@ -31,7 +31,7 @@
     <exec>
       <option name="COMMAND" value="make" />
       <option name="PARAMETERS" value="test-prepare" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/spica" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="cs-fix changed" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
