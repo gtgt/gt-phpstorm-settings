@@ -11,11 +11,12 @@
       <mapping ext="ods" type="Native" />
       <mapping ext="xcf" type="Native" />
       <mapping ext="mo" type="Native" />
+      <mapping ext="gz" type="Native" />
+      <mapping ext="theme" type="PHP" />
       <mapping ext="profile" type="PHP" />
-      <mapping ext="install" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
-      <mapping ext="theme" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping ext="r6544" type="PHP" />
       <mapping ext="ser" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
