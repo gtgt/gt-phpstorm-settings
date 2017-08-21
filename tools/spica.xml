@@ -1,5 +1,5 @@
 <toolSet name="spica">
-  <tool name="env-local" description="Switch to local environment" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+  <tool name="env-local" description="Switch to local environment" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="cp" />
       <option name="PARAMETERS" value="ed-oam/local/envSetup.php config/envSetup.php" />
