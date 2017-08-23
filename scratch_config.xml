@@ -11,8 +11,10 @@
         <option value="scratch_1.xml" />
         <option value="AbstractSet.php" />
         <option value="regex_replace.js" />
+        <option value="unittest_fails.txt" />
       </list>
     </option>
+    <option name="lastOpenedScratch" value="unittest_fails.txt" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
