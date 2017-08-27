@@ -1,9 +1,16 @@
 <toolSet name="spica">
-  <tool name="docker-search-run" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+  <tool name="env-local" description="Switch to local environment" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="cp" />
+      <option name="PARAMETERS" value="ed-oam/local/envSetup.php config/envSetup.php" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="test-prepare" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="make" />
-      <option name="PARAMETERS" value="docker-search-run" />
-      <option name="WORKING_DIRECTORY" value="$Projectpath$" />
+      <option name="PARAMETERS" value="test-prepare" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
   <tool name="cs-fix" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
@@ -13,11 +20,11 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/spica" />
     </exec>
   </tool>
-  <tool name="newman" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="cs-fix changed" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="newman" />
-      <option name="PARAMETERS" value=" run tests/basic-test.json -e config/build.json" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/newman" />
+      <option name="COMMAND" value="make" />
+      <option name="PARAMETERS" value="cs-fix-changed" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/spica" />
     </exec>
   </tool>
   <tool name="unittest" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
@@ -27,18 +34,18 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/spica" />
     </exec>
   </tool>
-  <tool name="test-prepare" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="docker-search-run" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="false" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="make" />
-      <option name="PARAMETERS" value="test-prepare" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/spica" />
+      <option name="PARAMETERS" value="docker-search-run" />
+      <option name="WORKING_DIRECTORY" value="$Projectpath$" />
     </exec>
   </tool>
-  <tool name="cs-fix changed" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="newman" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="make" />
-      <option name="PARAMETERS" value="cs-fix-changed" />
-      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/spica" />
+      <option name="COMMAND" value="newman" />
+      <option name="PARAMETERS" value=" run tests/basic-test.json -e config/build.json" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/newman" />
     </exec>
   </tool>
 </toolSet>
