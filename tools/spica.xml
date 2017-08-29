@@ -27,7 +27,7 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/spica" />
     </exec>
   </tool>
-  <tool name="unittest" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+  <tool name="unittest" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="make" />
       <option name="PARAMETERS" value="test" />
