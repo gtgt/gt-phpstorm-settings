@@ -12,8 +12,10 @@
         <option value="AbstractSet.php" />
         <option value="regex_replace.js" />
         <option value="unittest_fails.txt" />
+        <option value="scarab.json" />
       </list>
     </option>
+    <option name="lastOpenedScratch" value="scarab.json" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
