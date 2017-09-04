@@ -34,8 +34,8 @@
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.yml</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
