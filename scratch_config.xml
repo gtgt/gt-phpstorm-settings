@@ -5,9 +5,10 @@
       <list>
         <option value="user.json" />
         <option value="scarab.json" />
+        <option value="scarab2.json" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scarab.json" />
+    <option name="lastOpenedScratch" value="scarab2.json" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
