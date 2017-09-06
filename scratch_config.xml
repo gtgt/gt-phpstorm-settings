@@ -3,19 +3,9 @@
     <option name="defaultScratchMeaning" value="LAST_OPENED" />
     <option name="fullScratchNamesOrdered">
       <list>
-        <option value="scratch.sql" />
-        <option value="scratch.xml" />
-        <option value="ed_image.php" />
-        <option value="scratch.json" />
-        <option value="_scratch.json" />
-        <option value="scratch_1.xml" />
-        <option value="AbstractSet.php" />
-        <option value="regex_replace.js" />
-        <option value="unittest_fails.txt" />
-        <option value="scarab.json" />
+        <option value="user.json" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="scarab.json" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
