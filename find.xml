@@ -29,13 +29,13 @@
       <mask>*.p</mask>
       <mask>*.xlf</mask>
       <mask>*</mask>
-      <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>

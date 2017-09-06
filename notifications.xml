@@ -5,8 +5,7 @@
     <notification groupId="Database log" displayType="NONE" />
     <notification groupId="Database Navigator" displayType="TOOL_WINDOW" />
     <notification groupId="Database view" displayType="TOOL_WINDOW" />
-    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
-    <notification groupId="Execution" displayType="NONE" />
+    <notification groupId="Debugger messages" />
     <notification groupId="External Executable Critical Failures" displayType="TOOL_WINDOW" />
     <notification groupId="File Watcher Messages" displayType="NONE" />
     <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />

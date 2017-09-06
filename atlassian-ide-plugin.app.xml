@@ -2,6 +2,7 @@
   <component name="atlassian-ide-plugin">
     <option name="JIRAConfigurationData">
       <JiraConfigurationBean>
+        <option name="pageSize" value="50" />
         <option name="synchronizeWithIntelliJTasks" value="true" />
       </JiraConfigurationBean>
     </option>
