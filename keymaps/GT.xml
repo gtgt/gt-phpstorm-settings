@@ -2,12 +2,18 @@
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
+  <action id="$SearchWeb">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
     <keyboard-shortcut first-keystroke="shift ctrl space" />
   </action>
   <action id="Console.History.Browse" />
   <action id="CopyReference" />
+  <action id="Editor SearchWeb">
+    <keyboard-shortcut first-keystroke="meta g" />
+  </action>
   <action id="EditorPaste">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
@@ -20,7 +26,7 @@
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl o" />
-    <keyboard-shortcut first-keystroke="alt space" />
+    <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift alt o" />
@@ -61,6 +67,9 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl h" />
     <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="alt space" />
   </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowBookmarks">
