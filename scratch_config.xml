@@ -13,8 +13,10 @@
         <option value="AbstractSet.php" />
         <option value="regex_replace.js" />
         <option value="unittest_fails.txt" />
+        <option value="optimistic_lock.json" />
       </list>
     </option>
+    <option name="lastOpenedScratch" value="optimistic_lock.json" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
