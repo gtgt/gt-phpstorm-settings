@@ -14,9 +14,10 @@
         <option value="regex_replace.js" />
         <option value="unittest_fails.txt" />
         <option value="optimistic_lock.json" />
+        <option value="test.json" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="optimistic_lock.json" />
+    <option name="lastOpenedScratch" value="test.json" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
