@@ -22,6 +22,7 @@
   <inspection_tool class="ES6ConvertVarToLetConst" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <scope name="node" level="WARNING" enabled="true" />
   </inspection_tool>
+  <inspection_tool class="ElvisOperatorCanBeUsedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EmptyFinallyBlockJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="EmptyTryBlockJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ExceptionsAnnotatingAndHandlingInspection" enabled="false" level="WARNING" enabled_by_default="false" />
