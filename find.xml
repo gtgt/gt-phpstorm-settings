@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.tpl.php</mask>
       <mask>*.h.php</mask>
@@ -32,10 +33,10 @@
       <mask>*.y</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
-      <mask>*.yml</mask>
       <mask>*.xlf</mask>
+      <mask>*.yml</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
