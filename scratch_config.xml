@@ -15,11 +15,11 @@
         <option value="unittest_fails.txt" />
         <option value="optimistic_lock.json" />
         <option value="test.json" />
-        <option value="user.json" />
-        <option value="scarab2.json" />
+        <option value="octo-product.sql" />
+        <option value="octo-order.sql" />
       </list>
     </option>
-    <option name="lastOpenedScratch" value="test.json" />
+    <option name="lastOpenedScratch" value="octo-order.sql" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
