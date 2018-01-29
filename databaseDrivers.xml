@@ -1,5 +1,9 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="163">
+    <driver id="exasol">
+      <artifact name="Exasol" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
     <driver id="h2.unified">
       <artifact name="H2" use="true" />
       <option name="auto-sync" value="true" />
@@ -7,6 +11,7 @@
     <driver id="azure.ms">
       <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="false" />
+      <option name="send-app-info" value="false" />
     </driver>
     <driver id="oracle">
       <artifact name="Oracle" use="true" />
@@ -22,7 +27,7 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="sqlserver.jtds">
-      <artifact name="jTDS (SQL Server and Sybase)" use="true" version="1.3.1" />
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" version="1.3.1.1" />
       <option name="auto-sync" value="false" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
@@ -60,6 +65,7 @@
     <driver id="sqlserver.ms">
       <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="false" />
+      <option name="send-app-info" value="false" />
     </driver>
     <driver id="java.sql.Driver" name="ODBC" dialect="TSQL" driver-class="sun.jdbc.odbc.JdbcOdbcDriver">
       <url-template name="default" template="jdbc:odbc:octopus" />
