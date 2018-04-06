@@ -117,5 +117,7 @@
       <path value="Project View Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <action id="LocalHistory.ShowHistory" icon="/opt/jetbrains-icons/vcs/history.png" />
+    <action id="CloseProject" icon="/opt/jetbrains-icons/actions/cross.png" />
   </component>
 </application>
