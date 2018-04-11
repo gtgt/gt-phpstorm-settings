@@ -15,6 +15,7 @@
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="debugger.watches.in.variables" value="false" />
-    <entry key="search.everywhere.settings" value="true" />
+    <entry key="search.everywhere.configurations" value="false" />
+    <entry key="search.everywhere.toolwindows" value="false" />
   </component>
 </application>
