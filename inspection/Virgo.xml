@@ -1,6 +1,7 @@
 <profile version="1.0">
   <option name="myName" value="Virgo" />
   <inspection_tool class="AdditionOperationOnArraysInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="AlterInForeachInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="CallableParameterUseCaseInTypeContextInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="CheckEmptyScriptTag" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="CheckImageSize" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
@@ -53,7 +54,7 @@
   <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
-        <list size="9">
+        <list size="10">
           <item index="0" class="java.lang.String" itemvalue="suggest" />
           <item index="1" class="java.lang.String" itemvalue="confirm" />
           <item index="2" class="java.lang.String" itemvalue="toggle" />
@@ -63,12 +64,14 @@
           <item index="6" class="java.lang.String" itemvalue="name" />
           <item index="7" class="java.lang.String" itemvalue="for" />
           <item index="8" class="java.lang.String" itemvalue="{confirm}" />
+          <item index="9" class="java.lang.String" itemvalue="{autotest}" />
         </list>
       </value>
     </option>
     <option name="myCustomValuesEnabled" value="true" />
   </inspection_tool>
   <inspection_tool class="HtmlUnknownTarget" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="InheritDocInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="IsEmptyFunctionUsageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSAccessibilityCheck" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JSBitwiseOperatorUsage" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -78,6 +81,7 @@
   <inspection_tool class="JSFieldCanBeLocal" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSImplicitlyInternalDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSMethodCanBeStatic" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSNonStrictModeUsed" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JSPotentiallyInvalidConstructorUsage" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="myConsiderUppercaseFunctionsToBeConstructors" value="true" />
   </inspection_tool>
@@ -92,8 +96,9 @@
   <inspection_tool class="JSUnusedLocalSymbols" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JSValidateTypes" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="LongInheritanceChainInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="MoreThanThreeArgumentsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="PhpAssignmentInConditionInspection" enabled="true" level="INFO" enabled_by_default="true" />
+  <inspection_tool class="NestedTernaryOperatorInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="NotOptimalIfConditionsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="PhpAssignmentInConditionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="PhpCSValidationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
     <option name="CODING_STANDARD" value="moodle" />
   </inspection_tool>
@@ -107,6 +112,7 @@
   <inspection_tool class="PhpUndefinedClassInspection" enabled="true" level="ERROR" enabled_by_default="true">
     <option name="DONT_REPORT_MULTI_RESOLVE" value="true" />
   </inspection_tool>
+  <inspection_tool class="PhpUndefinedFieldInspection" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="PhpUndefinedMethodInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="DOWNGRADE_SEVERITY" value="true" />
   </inspection_tool>
@@ -125,16 +131,27 @@
   <inspection_tool class="RequiredAttributes" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="myAdditionalRequiredHtmlAttributes" value="" />
   </inspection_tool>
+  <inspection_tool class="ReturnTypeCanBeDeclaredInspection" enabled="true" level="UNUSED ENTRY" enabled_by_default="true" />
   <inspection_tool class="SecurityAdvisoriesInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="optionConfiguration">
       <list>
         <option value="behat/behat" />
+        <option value="brianium/paratest" />
+        <option value="codeception/codeception" />
+        <option value="codedungeon/phpunit-result-printer" />
         <option value="composer/composer" />
+        <option value="filp/whoops" />
         <option value="friendsofphp/php-cs-fixer" />
+        <option value="humbug/humbug" />
+        <option value="infection/infection" />
         <option value="jakub-onderka/php-parallel-lint" />
         <option value="johnkary/phpunit-speedtrap" />
+        <option value="mikey179/vfsStream" />
         <option value="mockery/mockery" />
+        <option value="mybuilder/phpunit-accelerator" />
+        <option value="orchestra/testbench" />
         <option value="pdepend/pdepend" />
+        <option value="phan/phan" />
         <option value="phing/phing" />
         <option value="phpmd/phpmd" />
         <option value="phpro/grumphp" />
@@ -142,17 +159,29 @@
         <option value="phpspec/prophecy" />
         <option value="phpstan/phpstan" />
         <option value="phpunit/dbunit" />
+        <option value="phpunit/phpcov" />
         <option value="phpunit/phpunit" />
+        <option value="phpunit/phpunit-selenium" />
         <option value="povils/phpmnd" />
+        <option value="roave/security-advisories" />
         <option value="satooshi/php-coveralls" />
         <option value="sebastian/phpcpd" />
         <option value="slevomat/coding-standard" />
+        <option value="spatie/phpunit-watcher" />
         <option value="squizlabs/php_codesniffer" />
+        <option value="sstalle/php7cc" />
+        <option value="symfony/debug" />
+        <option value="symfony/maker-bundle" />
         <option value="symfony/phpunit-bridge" />
+        <option value="symfony/var-dumper" />
         <option value="vimeo/psalm" />
+        <option value="wimg/php-compatibility" />
+        <option value="yiisoft/yii2-debug" />
+        <option value="yiisoft/yii2-gii" />
+        <option value="zendframework/zend-debug" />
+        <option value="zendframework/zend-test" />
       </list>
     </option>
-    <option name="optionConfigurationMigrated" value="true" />
   </inspection_tool>
   <inspection_tool class="SlowArrayOperationsInLoopInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
@@ -170,6 +199,7 @@
     <option name="m_ignoreImmediatelyReturnedVariables" value="false" />
     <option name="m_ignoreAnnotatedVariables" value="false" />
   </inspection_tool>
+  <inspection_tool class="UnqualifiedReferenceInspection" enabled="true" level="TYPO" enabled_by_default="true" />
   <inspection_tool class="UnterminatedStatementJS" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="ignoreSemicolonAtEndOfBlock" value="true" />
   </inspection_tool>
