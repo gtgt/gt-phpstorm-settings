@@ -10,6 +10,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl space" />
   </action>
   <action id="Console.History.Browse" />
+  <action id="ContextHelp">
+    <keyboard-shortcut first-keystroke="meta f1" />
+  </action>
   <action id="CopyReference" />
   <action id="Editor SearchWeb">
     <keyboard-shortcut first-keystroke="meta g" />
@@ -101,6 +104,7 @@
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="Tool_spica_cs-fix">
     <keyboard-shortcut first-keystroke="shift ctrl alt c" />
