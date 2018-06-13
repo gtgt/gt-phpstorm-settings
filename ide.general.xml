@@ -17,5 +17,6 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="search.everywhere.configurations" value="false" />
     <entry key="search.everywhere.toolwindows" value="false" />
+    <entry key="documentation.show.toolbar" value="true" />
   </component>
 </application>

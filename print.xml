@@ -1,8 +1,12 @@
 <application>
   <component name="PrintSettings">
     <option name="includeSubdirectories" value="true" />
-    <option name="printScope" value="2" />
+    <option name="printScope" value="1" />
     <option name="FONT_SIZE" value="8" />
+    <option name="WRAP" value="false" />
+    <option name="BOTTOM_MARGIN" value="0.5" />
+    <option name="LEFT_MARGIN" value="0.5" />
+    <option name="RIGHT_MARGIN" value="0.5" />
     <option name="FOOTER_HEADER_FONT_NAME" value="DejaVu Sans Mono" />
   </component>
 </application>
