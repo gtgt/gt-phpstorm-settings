@@ -1,13 +1,16 @@
 <application>
   <component name="MessDetector">
+    <phpmd_settings_migrated />
     <phpmd_settings>
       <MessDetectorConfiguration tool_path="/opt/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpAutoImport" auto_import_file_scope="true" />
   <component name="PhpCodeSniffer">
-    <option name="phpCodeSnifferPath" value="$USER_HOME$/www/_codelib/pear-core/packages/PHP_CodeSniffer/scripts/phpcs" />
-    <option name="standards" value="Drupal;MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend;moodle" />
+    <phpcs_settings_migrated />
+    <phpcs_settings>
+      <PhpCSConfiguration tool_path="$USER_HOME$/www/_codelib/pear-core/packages/PHP_CodeSniffer/scripts/phpcs" />
+    </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
     <interpreters>
