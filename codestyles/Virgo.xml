@@ -1,5 +1,8 @@
-<code_scheme name="Virgo">
+<code_scheme name="Virgo" version="173">
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  </HTMLCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
@@ -17,9 +20,8 @@
     <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="0" />
-    </indentOptions>
+    <option name="CLASS_BRACE_STYLE" value="1" />
+    <option name="METHOD_BRACE_STYLE" value="1" />
   </codeStyleSettings>
   <codeStyleSettings language="yaml">
     <indentOptions>
