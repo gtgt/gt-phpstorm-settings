@@ -1,4 +1,23 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
+  </component>
+  <component name="CodeInsightSettings">
+    <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="SMART_INDENT_ON_ENTER" value="false" />
+    <option name="AUTOINSERT_PAIR_BRACKET" value="false" />
+    <option name="AUTOINSERT_PAIR_QUOTE" value="false" />
+    <option name="REFORMAT_BLOCK_ON_RBRACE" value="false" />
+    <option name="REFORMAT_ON_PASTE" value="1" />
+    <option name="HIGHLIGHT_SCOPE" value="true" />
+    <option name="HIGHLIGHT_IDENTIFIER_UNDER_CARET" value="false" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="Virgo">
+    <option name="AUTOREPARSE_DELAY" value="1000" />
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="11" />
     <option name="LINE_SPACING" value="1.05" />
@@ -16,10 +35,16 @@
     <option name="PRESELECT_RENAME" value="false" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
   </component>
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="insertQuotesForAttributeValue" value="false" />
     <option name="showCssInlineColorPreview" value="true" />
     <option name="syncTagEditing" value="false" />
     <option name="tagTreeHighlightingOpacity" value="50" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
   </component>
 </application>

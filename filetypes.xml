@@ -3,30 +3,32 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="dust" type="Dust" />
+      <removed_mapping pattern=".editorconfig" type="EditorConfig" />
       <mapping ext="" type="HTML" />
       <mapping pattern=".editorconfig" type="Ini" />
-      <mapping ext="ini@all" type="Ini" />
-      <mapping ext="conf@all" type="Ini" />
       <mapping ext="info" type="Ini" />
+      <mapping ext="conf@all" type="Ini" />
+      <mapping ext="ini@all" type="Ini" />
       <mapping pattern="*appadmin.log" type="JSON" />
       <mapping pattern="doctrine.log" type="JSON" />
+      <mapping ext="mo" type="Native" />
       <mapping ext="ods" type="Native" />
       <mapping ext="xcf" type="Native" />
-      <mapping ext="mo" type="Native" />
       <mapping ext="gz" type="Native" />
+      <mapping ext="profile" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
-      <mapping ext="r6544" type="PHP" />
-      <mapping ext="profile" type="PHP" />
-      <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
-      <mapping ext="java" type="PLAIN_TEXT" />
+      <mapping ext="theme" type="PHP" />
+      <mapping ext="r6544" type="PHP" />
       <mapping ext="ser" type="PLAIN_TEXT" />
+      <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="meta" type="PLAIN_TEXT" />
       <mapping ext="xliff" type="XML" />
       <mapping ext="xlf" type="XML" />
       <mapping pattern="*.yml.dist" type="YAML" />
       <mapping pattern="*.yaml.dist" type="YAML" />
+      <removed_mapping pattern=".editorconfig" type="EditorConfig" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
